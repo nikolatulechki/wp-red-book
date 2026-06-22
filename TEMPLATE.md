@@ -161,14 +161,14 @@ reachable through the category tree, so listing both is redundant.
   `[[Категория:Гълъбки]]` **and** `[[Категория:Гъби]]` is wrong — keep only
   `[[Категория:Гълъбки]]`.
 
-### Geographic category — България only if endemic, else Палеарктика
+### Geographic category — България only if endemic to bulgaria
 
 Decide from the Red Book "Общо разпространение" (world distribution):
 
 | Distribution | Category |
 |---|---|
 | **Endemic to Bulgaria** (occurs only in BG) | `[[Категория:Флора на България]]` / `[[Категория:Фауна на България]]` |
-| **Occurs outside Bulgaria too** (the common case) | `[[Категория:Флора на Палеарктика]]` / `[[Категория:Фауна на Палеарктика]]` |
+| **Occurs outside Bulgaria too** (the common case) | add nothing |
 
 Rationale: a country category for a widespread species would force dozens of
 parallel "Фауна на …" categories; the biogeographic realm (Palearctic) is the

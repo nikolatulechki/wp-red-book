@@ -83,13 +83,14 @@ Placeholders in `«…»`. Delete sections the Red Book entry has no data for.
 {{мъниче|растения}}
 {{Нормативен контрол}}
 
-[[Категория:«Род или семейство»]]
-[[Категория:Флора на България]]
+[[Категория:«Най-дълбоката таксономична категория, напр. род»]]
+[[Категория:«Флора на България (ендемит) | Флора на Палеарктика (извън България)»]]
 ```
 
-For **endemics** add `[[Категория:Ендемична флора на България]]`. For **fungi**,
+For the two category lines follow §7a (taxonomic = deepest level only;
+geographic = България само при ендемизъм, иначе Палеарктика). For **fungi**,
 swap the lead to `…е вид [[гъба]] от семейство [[Family]]`, use `{{мъниче|гъба}}`
-and gъба-type categories instead of Флора.
+and a гъба-type taxonomic category instead of Флора.
 
 ## 6. Reusable wikitext skeleton — ANIMALS (vol2)
 
@@ -125,11 +126,11 @@ Animal entries are richer; use more sections.
 {{мъниче|животни}}
 {{Нормативен контрол}}
 
-[[Категория:«Семейство на български»]]
-[[Категория:Фауна на България]]
+[[Категория:«Най-дълбоката таксономична категория, напр. род или семейство»]]
+[[Категория:«Фауна на България (ендемит) | Фауна на Палеарктика (извън България)»]]
 ```
 
-For **birds** use `{{мъниче|птици}}`.
+For **birds** use `{{мъниче|птици}}`. For the two category lines follow §7a.
 
 ## 7. Conventions distilled from existing articles (follow these exactly)
 
@@ -155,6 +156,42 @@ For **birds** use `{{мъниче|птици}}`.
 - **Sanity check**: confirm the page is linked to its `wikidata_qid` (otherwise
   the Taxobox renders empty). 23 taxa in `tracking.csv` have no QID — those need
   the Taxobox filled manually or a Wikidata item created first.
+
+## 7a. Category rules (reviewer feedback — follow exactly)
+
+Every article gets exactly **two** category lines: one taxonomic, one
+geographic.
+
+### Taxonomic category — deepest level only
+
+Place the article in the **single most specific** taxonomic category that
+exists, and **never** also add a broader ancestor. The parent is already
+reachable through the category tree, so listing both is redundant.
+
+- Prefer the **genus** category (e.g. `[[Категория:Млечка]]`,
+  `[[Категория:Гълъбки]]`); fall back to **family** only if no genus category
+  exists.
+- ❌ Do **not** add the broad kingdom/group category on top, e.g. having both
+  `[[Категория:Гълъбки]]` **and** `[[Категория:Гъби]]` is wrong — keep only
+  `[[Категория:Гълъбки]]`.
+
+### Geographic category — България only if endemic, else Палеарктика
+
+Decide from the Red Book "Общо разпространение" (world distribution):
+
+| Distribution | Category |
+|---|---|
+| **Endemic to Bulgaria** (occurs only in BG) | `[[Категория:Флора на България]]` / `[[Категория:Фауна на България]]` |
+| **Occurs outside Bulgaria too** (the common case) | `[[Категория:Флора на Палеарктика]]` / `[[Категория:Фауна на Палеарктика]]` |
+
+Rationale: a country category for a widespread species would force dozens of
+parallel "Фауна на …" categories; the biogeographic realm (Palearctic) is the
+right granularity instead. Use the BG country category **only** for true
+endemics.
+
+> Note: this **replaces** the older "always add Фауна/Флора на България" rule
+> and the separate "Ендемична флора на България" addition used in earlier
+> articles.
 
 ## 8. Filled mini-example (Алепска млечка, `EN`, no WP article yet)
 
@@ -185,8 +222,12 @@ Red Book entry:
 {{Нормативен контрол}}
 
 [[Категория:Млечка]]
-[[Категория:Флора на България]]
+[[Категория:Флора на Палеарктика]]
 ```
+
+(Geographic category is Палеарктика, not България: the species ranges across
+SE Europe, the Mediterranean, Crimea and SW Asia, so it is **not** a Bulgarian
+endemic — see §7a. `Категория:Млечка` is already the deepest taxonomic level.)
 
 ## 9. Linking the article to Wikidata (so the Taxobox fills in)
 

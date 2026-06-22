@@ -5,3 +5,5 @@ __pycache__/
 
 # MediaWiki clones (separate git-remote-mediawiki repos; see README)
 wiki/
+.gitignore
+

@@ -44,19 +44,7 @@ Set `status_bg` to the Red Book code straight from `redbook_status`:
 | `RE` | Регионално изчезнал | регионално изчезнал вид |
 | `EX` | Изчезнал | изчезнал вид — also add `status_bg_extinct = <year>` |
 
-## 4. Stub template (always include)
-
-Every new article is a stub, so **always** add a `{{мъниче|…}}` template just
-before `{{Нормативен контрол}}`:
-
-| Group | Stub |
-|---|---|
-| Plants | `{{мъниче|растения}}` |
-| Fungi | `{{мъниче|гъба}}` |
-| Animals (general) | `{{мъниче|животни}}` |
-| Birds | `{{мъниче|птици}}` |
-
-## 5. Reusable wikitext skeleton — PLANTS & FUNGI (vol1)
+## 4. Reusable wikitext skeleton — PLANTS & FUNGI (vol1)
 
 Placeholders in `«…»`. Delete sections the Red Book entry has no data for.
 
@@ -80,19 +68,18 @@ Placeholders in `«…»`. Delete sections the Red Book entry has no data for.
 == Източници ==
 <references />
 
-{{мъниче|растения}}
 {{Нормативен контрол}}
 
 [[Категория:«Най-дълбоката таксономична категория, напр. род»]]
 [[Категория:«Флора на България (ендемит) | Флора на Палеарктика (извън България)»]]
 ```
 
-For the two category lines follow §7a (taxonomic = deepest level only;
+For the two category lines follow §6a (taxonomic = deepest level only;
 geographic = България само при ендемизъм, иначе Палеарктика). For **fungi**,
-swap the lead to `…е вид [[гъба]] от семейство [[Family]]`, use `{{мъниче|гъба}}`
-and a гъба-type taxonomic category instead of Флора.
+swap the lead to `…е вид [[гъба]] от семейство [[Family]]` and use a гъба-type
+taxonomic category instead of Флора.
 
-## 6. Reusable wikitext skeleton — ANIMALS (vol2)
+## 5. Reusable wikitext skeleton — ANIMALS (vol2)
 
 Animal entries are richer; use more sections.
 
@@ -123,16 +110,15 @@ Animal entries are richer; use more sections.
 == Източници ==
 <references />
 
-{{мъниче|животни}}
 {{Нормативен контрол}}
 
 [[Категория:«Най-дълбоката таксономична категория, напр. род или семейство»]]
 [[Категория:«Фауна на България (ендемит) | Фауна на Палеарктика (извън България)»]]
 ```
 
-For **birds** use `{{мъниче|птици}}`. For the two category lines follow §7a.
+For the two category lines follow §6a.
 
-## 7. Conventions distilled from existing articles (follow these exactly)
+## 6. Conventions distilled from existing articles (follow these exactly)
 
 - **`{{Червена книга}}` params** are always `title = {{PAGENAME}}`,
   `redbooklink = <redbook_url>`, `downloaded = <date in Bulgarian>`. Reuse it
@@ -152,12 +138,12 @@ For **birds** use `{{мъниче|птици}}`. For the two category lines foll
 - **Image**: only add `[[Файл:…|мини|...]]` if Wikidata `P18` has one; otherwise
   leave it to the Taxobox.
 - **Footer order**: `== Източници ==` → optional `== Външни препратки ==` →
-  `{{мъниче|…}}` (always) → `{{Нормативен контрол}}` → categories last.
+  `{{Нормативен контрол}}` → categories last.
 - **Sanity check**: confirm the page is linked to its `wikidata_qid` (otherwise
   the Taxobox renders empty). 23 taxa in `tracking.csv` have no QID — those need
   the Taxobox filled manually or a Wikidata item created first.
 
-## 7a. Category rules (reviewer feedback — follow exactly)
+## 6a. Category rules (reviewer feedback — follow exactly)
 
 Every article gets exactly **two** category lines: one taxonomic, one
 geographic.
@@ -193,7 +179,7 @@ endemics.
 > and the separate "Ендемична флора на България" addition used in earlier
 > articles.
 
-## 8. Filled mini-example (Алепска млечка, `EN`, no WP article yet)
+## 7. Filled mini-example (Алепска млечка, `EN`, no WP article yet)
 
 Using `tracking.csv` id 8 (`Euphorbia aleppica`, `Q12230481`, vol1) + its
 Red Book entry:
@@ -218,7 +204,6 @@ Red Book entry:
 == Източници ==
 <references />
 
-{{мъниче|растения}}
 {{Нормативен контрол}}
 
 [[Категория:Млечка]]
@@ -227,9 +212,9 @@ Red Book entry:
 
 (Geographic category is Палеарктика, not България: the species ranges across
 SE Europe, the Mediterranean, Crimea and SW Asia, so it is **not** a Bulgarian
-endemic — see §7a. `Категория:Млечка` is already the deepest taxonomic level.)
+endemic — see §6a. `Категория:Млечка` is already the deepest taxonomic level.)
 
-## 9. Linking the article to Wikidata (so the Taxobox fills in)
+## 8. Linking the article to Wikidata (so the Taxobox fills in)
 
 The bg `{{Taxobox}}` only auto-populates (kingdom/family/genus/binomial/image)
 if the article is **connected to its Wikidata item**. Pushing the wikitext via

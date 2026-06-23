@@ -71,6 +71,7 @@ One row per species. Columns (defined in `scripts/common.py`):
 | `wikidata_qid` | Wikidata QID for the taxon | `reconcile_taxa.py` |
 | `redbook_url` | e-ecodb.bas.bg article URL | `build_redbook_map.py` |
 | `content_status` | `todo`/`draft`/`created`/`published`/`published_bot` | manual |
+| `wd_linked` | `yes` once the Wikidata `bgwiki` sitelink is set | `link_wikidata_sitelinks.py` |
 | `notes` | warnings, redirects, low-confidence matches | all scripts |
 
 ### Current state (snapshot)

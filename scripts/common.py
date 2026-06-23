@@ -19,6 +19,7 @@ COLUMNS = [
     "wikidata_qid",
     "redbook_url",
     "content_status",
+    "wd_linked",
     "notes",
 ]
 

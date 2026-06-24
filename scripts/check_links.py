@@ -9,7 +9,7 @@ Reports red links per file so you fix wrong family names / missing categories
 Exit code is non-zero if any non-category red link is found.
 
 Usage:
-    python scripts/check_links.py wiki/articles/Алпийски_корал.mw [more.mw ...]
+    python scripts/check_links.py outbox/Алпийски_корал.mw [more.mw ...]
 """
 from __future__ import annotations
 

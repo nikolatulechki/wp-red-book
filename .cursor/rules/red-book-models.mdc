@@ -1,0 +1,40 @@
+---
+description: Model routing for Red Book article workflow (cheap prep, Opus writing)
+alwaysApply: true
+---
+
+# Red Book model routing
+
+Three phases — do not write Bulgarian article prose outside Phase B.
+
+## Phase A — Prep (Auto / Composer)
+
+Steps 1–2 only. Prefer scripts over reasoning.
+
+```bash
+.venv/bin/python scripts/select_candidates.py --n 10
+.venv/bin/python scripts/prepare_brief.py <ids...>
+```
+
+- Run `prepare_brief.py` instead of hand-copying `/tmp/rb/` files.
+- **Stop** when `drafts/<id>_<Title>/` exists with `brief.md`, `redbook.txt`, `skeleton.wikitext`.
+- Do **not** create `outbox/*.mw` in Phase A.
+- End with: *Brief ready for `<Title>`. Switch to Opus for Phase B.*
+
+## Phase B — Write (Opus only)
+
+- Model must be **Claude Opus** (manual picker or `/red-book-writer` subagent).
+- Read `TEMPLATE.md`, `drafts/.../brief.md`, `redbook.txt`, `skeleton.wikitext`.
+- Output: `outbox/<Bg_Title>.mw` only. No publish scripts yet.
+
+## Phase C — Ship (Auto / Composer)
+
+Steps 4–7 only: `check_links.py`, `publish_api.py`, `link_wikidata_sitelinks.py`, `tracking.csv`, bot log.
+
+Fix link errors with the cheap model; re-run `check_links.py` until clean.
+
+## Hard stops
+
+- Never run `publish_api.py` before `check_links.py` is clean.
+- Never write `.mw` prose when the user is on Auto unless they explicitly override.
+- If no `drafts/` brief exists, run Phase A first.

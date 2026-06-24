@@ -8,9 +8,14 @@ A row is a real candidate only if ALL of:
   - redbook_url is set                 (needed for the prose + citation)
   - the QID has NO `bgwiki` sitelink   (guards against false missings, where the
     article exists under a different Bulgarian title — see sweep_wp_via_wikidata)
+  - the bg_name page does NOT exist on bgwiki (authoritative idempotency guard:
+    a page can exist without a Wikidata sitelink, e.g. our own article whose
+    step-6 link failed or whose tracking row was never committed — without this
+    check we would re-select and re-create it)
 
 Prints a table of the first N candidates. Rows that pass the local filters but
-turn out to already have a sitelink are reported separately as false missings.
+already exist on the wiki (sitelink OR live page) are reported separately so
+they are never handed to the writer/publisher again.
 
 Usage:
     python scripts/select_candidates.py --n 10
@@ -27,14 +32,15 @@ import requests
 from common import load_rows
 
 WD_API = "https://www.wikidata.org/w/api.php"
+BG_API = "https://bg.wikipedia.org/w/api.php"
 UA = "red-book-tracker/0.1 (Wikipedia article-creation project)"
 BATCH = 50
 
 
-def _get(session: requests.Session, params: dict) -> dict:
+def _get(session: requests.Session, params: dict, *, api: str = WD_API) -> dict:
     wait = 5.0
     for attempt in range(8):
-        resp = session.get(WD_API, params=params, timeout=60)
+        resp = session.get(api, params=params, timeout=60)
         if resp.status_code == 429:
             retry_after = resp.headers.get("Retry-After")
             sleep = float(retry_after) if retry_after else wait
@@ -45,6 +51,36 @@ def _get(session: requests.Session, params: dict) -> dict:
         resp.raise_for_status()
         return resp.json()
     raise RuntimeError("giving up after repeated 429s")
+
+
+def bgwiki_pages_exist(titles: list[str]) -> dict[str, bool]:
+    """Return {title: page exists on bgwiki} (redirects followed)."""
+    out: dict[str, bool] = {}
+    session = requests.Session()
+    session.headers.update({"User-Agent": UA})
+    uniq = sorted({t for t in titles if t})
+    for i in range(0, len(uniq), BATCH):
+        chunk = uniq[i : i + BATCH]
+        data = _get(
+            session,
+            {
+                "action": "query",
+                "format": "json",
+                "prop": "info",
+                "redirects": "1",
+                "titles": "|".join(chunk),
+            },
+            api=BG_API,
+        ).get("query", {})
+        norm = {n["from"]: n["to"] for n in data.get("normalized", [])}
+        redir = {r["from"]: r["to"] for r in data.get("redirects", [])}
+        resolved = {p.get("title"): ("missing" not in p) for p in data.get("pages", {}).values()}
+        for title in chunk:
+            t = norm.get(title, title)
+            t = redir.get(t, t)
+            out[title] = resolved.get(t, False)
+        time.sleep(0.5)
+    return out
 
 
 def bgwiki_sitelinks(qids: list[str]) -> dict[str, str | None]:
@@ -98,18 +134,25 @@ def main() -> None:
         print("No rows match the local filters.")
         return
 
-    # Verify against live Wikidata in id order until we have N real candidates.
+    # Verify against the live wiki in id order until we have N real candidates.
     pool.sort(key=lambda r: int(r["id"]))
     qids = [r["wikidata_qid"] for r in pool]
     print(f"Checking bgwiki sitelinks for {len(qids)} candidate QIDs...")
     links = bgwiki_sitelinks(sorted(set(qids)))
+    print(f"Checking bgwiki page existence for {len(pool)} candidate titles...")
+    pages = bgwiki_pages_exist([r["bg_name"] for r in pool])
 
     good: list[dict] = []
     false_missing: list[tuple[dict, str]] = []
     for r in pool:
         title = links.get(r["wikidata_qid"])
         if title:
-            false_missing.append((r, title))
+            false_missing.append((r, f"sitelink -> '{title}'"))
+            continue
+        # Authoritative guard: the target page may already exist even with no
+        # Wikidata sitelink (our own article whose step-6 link/tracking lagged).
+        if pages.get(r["bg_name"]):
+            false_missing.append((r, "page already exists on bgwiki (no WD sitelink)"))
             continue
         good.append(r)
         if len(good) >= args.n:
@@ -124,10 +167,10 @@ def main() -> None:
         )
 
     if false_missing:
-        print(f"\n!!! {len(false_missing)} false missing(s) — article already exists under another title.")
+        print(f"\n!!! {len(false_missing)} already exist(s) — do NOT brief/publish these.")
         print("    Run: python scripts/sweep_wp_via_wikidata.py  to correct tracking.csv")
-        for r, title in false_missing[:10]:
-            print(f"    id {r['id']:>4} {r['bg_name']}  ->  exists as '{title}' ({r['wikidata_qid']})")
+        for r, why in false_missing[:20]:
+            print(f"    id {r['id']:>4} {r['bg_name']}  ->  {why} ({r['wikidata_qid']})")
 
 
 if __name__ == "__main__":

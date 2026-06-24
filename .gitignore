@@ -1,9 +1,9 @@
+# Phase A writer briefs (regenerate with prepare_brief.py)
+drafts/*
+!drafts/README.md
+
+# Python
 .venv/
 __pycache__/
 *.pyc
-.DS_Store
-
-# MediaWiki clones (separate git-remote-mediawiki repos; see README)
 wiki/
-.gitignore
-

@@ -30,6 +30,8 @@ article. Each step is a column in `tracking.csv`.
 red-book/
 ├── README.md                ← this file
 ├── tracking.csv             ← master tracking sheet (one row per species)
+├── outbox/                  ← Phase B article drafts (.mw), tracked in git
+├── drafts/                  ← Phase A briefs (gitignored working copies)
 ├── scripts/                 ← the data pipeline (see below)
 │   ├── common.py            ← shared CSV helpers + column schema + taxon fixes
 │   ├── build_tracker.py     ← build tracking.csv from the species-list .mw
@@ -43,16 +45,18 @@ red-book/
 │   ├── vol2_texts.html      ← cached Red Book index (animals)
 │   ├── wp_titles.txt        ← list of article titles to fetch
 │   └── wp_fetch_failed.txt  ← titles the fetch script could not clone
-└── wiki/                    ← local MediaWiki clones (git-remote-mediawiki)
+└── wiki/                    ← local MediaWiki clones (gitignored)
     ├── species-list/        ← the source list page (single-page git clone)
-    ├── articles/            ← ALL article pages in ONE git clone, as <Title>.mw
-    └── bot/bot-pages/       ← bot user page + project log subpage
+    ├── articles/            ← reference mirror of existing articles (plain .mw)
+    └── bot/bot-pages/       ← bot user page + project log (small git clone)
 ```
 
-`wiki/articles/` is a single `git-remote-mediawiki` clone that tracks every
-article as a page in `remote.origin.pages`. Edits to any `.mw` file are
-committed and pushed back to bg.wikipedia together (see the global
-`wikipedia-git` skill for the workflow).
+`outbox/` holds new article wikitext (Phase B). Publish with
+`scripts/publish_api.py` — seconds per page via the MediaWiki API.
+
+`wiki/articles/` is a **reference mirror** from `fetch_wp_articles.py` (not the
+publish path). The bot log at `wiki/bot/bot-pages/` uses a small
+`git-remote-mediawiki` clone for occasional log updates.
 
 ## The tracking sheet (`tracking.csv`)
 
@@ -108,34 +112,41 @@ Notes:
 - `build_redbook_map.py` folds Cyrillic look-alike letters in Latin names and
   decodes the windows-1251 Red Book pages.
 
-## Fetching article wikitext locally
-
-Existing bg.wikipedia articles live in a **single** `git-remote-mediawiki` clone
-at `wiki/articles/` (see the global `wikipedia-git` skill). The tooling lives at
-`~/Projects/admin/wikipedia-git/`. All ~350 pages are tracked in one repo's
-`remote.origin.pages`, so they can be committed and pushed back together.
-
-**Authentication is required** — bulk fetch/push of hundreds of pages gets
-rate-limited (HTTP 429) when anonymous. The clone is configured with
-`remote.origin.mwLogin` (bot password stored in the macOS keychain).
-
-Daily workflow:
+## Publishing new articles
 
 ```bash
-. ~/Projects/admin/wikipedia-git/activate.sh
-cd wiki/articles
-# edit <Title>.mw files
-git commit -am "Edit summary shown on the wiki"   # in Bulgarian
-git push
-git pull --rebase
+.venv/bin/python scripts/check_links.py outbox/<Title>.mw
+.venv/bin/python scripts/publish_api.py <Title>    # or: scripts/publish.sh <Title>
+.venv/bin/python scripts/link_wikidata_sitelinks.py --ids <id>
 ```
+
+Auth: same `BOTulechki@gitBot` bot password as wikipedia-git (git credential
+helper). `publish_api.py` purges after create so the Taxobox can refresh once
+the Wikidata sitelink is set.
+
+## Syncable local clones (API mirror)
+
+`wiki/articles/<Title>.mw` is a local mirror of the live wikitext, kept current
+via the API by `scripts/sync_articles.py` (no git). `wiki/articles/.revids.json`
+records the base revision each copy was synced from — that revid is what makes
+edits conflict-safe.
+
+```bash
+.venv/bin/python scripts/sync_articles.py                 # all wp_exists=yes rows
+.venv/bin/python scripts/sync_articles.py --titles "Алепска млечка"
+.venv/bin/python scripts/sync_articles.py --check         # report local-vs-live drift
+```
+
+Edit a synced file then push with `publish_api.py --allow-existing` — the synced
+`baserevid` is sent so a concurrent/human edit triggers an edit conflict instead
+of being overwritten.
 
 After publishing new articles, update the bot project log on Wikipedia
 (`wiki/bot/bot-pages/`):
 
 ```bash
 cd wiki/bot/bot-pages
-# edit Потребител:BOTulechki%2FВидове_от_Червената_Книга.mw — add the new article to == Създадени статии ==
+# edit Потребител:BOTulechki%2FВидове_от_Червената_Книга.mw — append to == Създадени статии == (creation order, not alphabetical)
 git commit -am "Добавена статия …"
 git push && git pull --rebase
 ```
@@ -144,28 +155,19 @@ The project page lives at
 [Потребител:BOTulechki/Видове от Червената Книга](https://bg.wikipedia.org/wiki/Потребител:BOTulechki/Видове_от_Червената_Книга)
 (linked from [Потребител:BOTulechki](https://bg.wikipedia.org/wiki/Потребител:BOTulechki)).
 
-Add a new article to track:
+Add a reference article to the local mirror:
 
 ```bash
-cd wiki/articles
-git config --add remote.origin.pages '<New_Title_With_Underscores>'
-git fetch origin && git checkout master
+python3 scripts/fetch_wp_articles.py --limit 10   # or full run
 ```
 
-Re-fetching everything (rebuild the clone) is in
-`scripts/fetch_wp_articles.py`; failed titles are recorded in
-`data/wp_fetch_failed.txt`.
+Re-fetching everything is in `scripts/fetch_wp_articles.py`; failed titles are
+recorded in `data/wp_fetch_failed.txt`.
 
 ## Known issues / next steps
 
-- **Single-repo layout — DONE.** `wiki/articles/` is now one
-  `git-remote-mediawiki` clone tracking all pages (replacing the old
-  per-article throwaway clones). Fixing the bulk workflow required two patches
-  to the shared tooling at `~/Projects/admin/wikipedia-git/`:
-  (1) an off-by-one in the helper's page-list batching that sent 51 titles per
-  query instead of 50 (the MediaWiki API caps `titles` at 50), and
-  (2) enabling `MediaWiki::API` retries + `maxlag` in `connect_maybe`, since the
-  module defaulted to zero retries and died on the first rate-limit (429).
+- **API publish — DONE.** New articles go `outbox/` → `publish_api.py` (fast).
+  The old mega `wiki/articles/` git-remote clone is reference-only.
 - **Article creation not started** — `content_status` is `todo` for every row.
 - ~23 taxa still lack a Wikidata QID (low-confidence or no candidate; see `notes`).
 

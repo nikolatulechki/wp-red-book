@@ -71,13 +71,14 @@ Placeholders in `«…»`. Delete sections the Red Book entry has no data for.
 {{Нормативен контрол}}
 
 [[Категория:«Най-дълбоката таксономична категория, напр. род»]]
-[[Категория:«Флора на България (ендемит) | Флора на Палеарктика (извън България)»]]
+«[[Категория:Флора на България]]  ← само ако видът е български ендемит; иначе пропусни този ред»
 ```
 
-For the two category lines follow §6a (taxonomic = deepest level only;
-geographic = България само при ендемизъм, иначе Палеарктика). For **fungi**,
-swap the lead to `…е вид [[гъба]] от семейство [[Family]]` and use a гъба-type
-taxonomic category instead of Флора.
+For the categories follow §6a: the taxonomic line (deepest level only) is
+mandatory; add a geographic line (`Флора на България`) **only** if the species
+is endemic to Bulgaria, otherwise add no geographic category at all. For
+**fungi**, swap the lead to `…е вид [[гъба]] от семейство [[Family]]` and use a
+гъба-type taxonomic category instead of Флора.
 
 ## 5. Reusable wikitext skeleton — ANIMALS (vol2)
 
@@ -113,10 +114,11 @@ Animal entries are richer; use more sections.
 {{Нормативен контрол}}
 
 [[Категория:«Най-дълбоката таксономична категория, напр. род или семейство»]]
-[[Категория:«Фауна на България (ендемит) | Фауна на Палеарктика (извън България)»]]
+«[[Категория:Фауна на България]]  ← само ако видът е български ендемит; иначе пропусни този ред»
 ```
 
-For the two category lines follow §6a.
+For the categories follow §6a (taxonomic always; geographic only for Bulgarian
+endemics).
 
 ## 6. Conventions distilled from existing articles (follow these exactly)
 
@@ -145,8 +147,9 @@ For the two category lines follow §6a.
 
 ## 6a. Category rules (reviewer feedback — follow exactly)
 
-Every article gets exactly **two** category lines: one taxonomic, one
-geographic.
+Every article gets a **taxonomic** category line. It gets a **geographic**
+category line **only** if the species is endemic to Bulgaria — otherwise it has
+just the one taxonomic line.
 
 ### Taxonomic category — deepest level only
 
@@ -171,9 +174,8 @@ Decide from the Red Book "Общо разпространение" (world distri
 | **Occurs outside Bulgaria too** (the common case) | add nothing |
 
 Rationale: a country category for a widespread species would force dozens of
-parallel "Фауна на …" categories; the biogeographic realm (Palearctic) is the
-right granularity instead. Use the BG country category **only** for true
-endemics.
+parallel "Фауна на …" categories, so widespread species get **no** geographic
+category at all. Use the BG country category **only** for true endemics.
 
 > Note: this **replaces** the older "always add Фауна/Флора на България" rule
 > and the separate "Ендемична флора на България" addition used in earlier
@@ -207,33 +209,32 @@ Red Book entry:
 {{Нормативен контрол}}
 
 [[Категория:Млечка]]
-[[Категория:Флора на Палеарктика]]
 ```
 
-(Geographic category is Палеарктика, not България: the species ranges across
-SE Europe, the Mediterranean, Crimea and SW Asia, so it is **not** a Bulgarian
-endemic — see §6a. `Категория:Млечка` is already the deepest taxonomic level.)
+(No geographic category: the species ranges across SE Europe, the Mediterranean,
+Crimea and SW Asia, so it is **not** a Bulgarian endemic — see §6a. The only
+category is `Категория:Млечка`, which is already the deepest taxonomic level.)
 
 ## 8. Linking the article to Wikidata (so the Taxobox fills in)
 
 The bg `{{Taxobox}}` only auto-populates (kingdom/family/genus/binomial/image)
-if the article is **connected to its Wikidata item**. Pushing the wikitext via
-the `git-remote-mediawiki` / `wikipedia-git` workflow creates the **bgwiki page
-only** — it does **not** touch Wikidata. The connection is a **sitelink on the
-Wikidata item**: the item's `bgwiki` slot must point to the new article title.
+if the article is **connected to its Wikidata item**. Publishing via
+`scripts/publish_api.py` creates the **bgwiki page only** — it does **not**
+touch Wikidata. The connection is a **sitelink on the Wikidata item**: the item's `bgwiki` slot must point to the new article title.
 This is a separate write against `wikidata.org` using the QID already stored in
 `tracking.csv` (`wikidata_qid`).
 
 ### Order of operations (important)
 
-1. **Push the article first.** Wikidata refuses a sitelink to a page that does
+1. **Publish the article first** (`publish_api.py`). Wikidata refuses a sitelink to a page that does
    not yet exist, so the wiki page must be live before step 2.
 2. **Set the sitelink on the item** `Qxxxx` → `{ site: "bgwiki", title: "<bg_name>" }`.
 3. **Purge / null-edit** the new page so the Taxobox re-reads the now-connected
    item (until linked, the box renders empty/partial).
 4. **Log the publication** on
    [Потребител:BOTulechki/Видове от Червената Книга](https://bg.wikipedia.org/wiki/Потребител:BOTulechki/Видове_от_Червената_Книга)
-   (`wiki/bot/bot-pages/`) — add a bullet under `== Създадени статии ==` and push.
+   (`wiki/bot/bot-pages/`) — append a bullet at the **end** of
+   `== Създадени статии ==` in creation order (do not sort alphabetically) and push.
 
 ### How (use the `wikidata-pybot` library)
 

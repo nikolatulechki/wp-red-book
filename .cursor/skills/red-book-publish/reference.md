@@ -3,14 +3,39 @@
 Detailed notes for the `red-book-publish` workflow. Read the section you need;
 don't load all of it by default.
 
-## git-remote-mediawiki publish recovery
+## git-remote-mediawiki publish recovery (legacy — bot log only)
 
-`scripts/publish.sh` already handles the common cases below. Use these only when
-running git by hand.
+**New articles:** use `scripts/publish_api.py` (fast API path). The notes below
+apply only if you are pushing via git-remote-mediawiki — e.g. the bot project log
+at `wiki/bot/bot-pages/`.
 
-### Non-fast-forward on push (the normal case)
+`scripts/publish.sh` now delegates to `publish_api.py`; it no longer syncs the
+old mega `wiki/articles/` clone.
+
+### API publish auth
+
+Uses the same `BOTulechki@gitBot` token as wikipedia-git:
+
+```bash
+printf 'protocol=https\nhost=bg.wikipedia.org\npath=w\nusername=BOTulechki@gitBot\n' \
+  | git credential fill   # should return password=...
+```
+
+Re-store with `setup-auth.sh` in any wiki clone if fill returns nothing.
+
+### Bot log clone (git-remote-mediawiki)
 The live wiki almost always has revisions your local clone lacks. Push is
-rejected. Fix:
+rejected. Fix (bot log clone only):
+
+```bash
+. ~/Projects/admin/wikipedia-git/activate.sh
+cd ~/Projects/wiki/red-book/wiki/bot/bot-pages
+git pull --rebase || git rebase origin/master
+git push
+```
+
+### Non-fast-forward on push (articles mega-clone — deprecated)
+If you still use the old `wiki/articles/` git clone:
 
 ```bash
 . ~/Projects/admin/wikipedia-git/activate.sh
@@ -37,10 +62,10 @@ git update-ref refs/remotes/origin/master refs/mediawiki/origin/master
 git pull --ff-only   # or: git rebase origin/master
 ```
 
-### Push/pull looks hung
-It re-lists **all** tracked pages (~360) before sending your revision; expect
-1–3 minutes with no output. Confirm life by tailing the terminal file rather
-than killing it. Do **not** `pkill`.
+### Push/pull looks hung (git-remote only)
+A git-remote-mediawiki pull/push re-lists **all** tracked pages in that clone.
+The old `wiki/articles/` mega-clone had ~360 pages (1–3 min). Do not use it for
+publishing new articles.
 
 ### Credential "Device not configured" in background
 Means git tried to prompt with no TTY. Re-store the bot credential so the
@@ -88,8 +113,8 @@ API action `wbsetsitelink`).
   miscounts Cyrillic — count lines, not words.
 - **`&&` chains break on `grep` exit 1** (no match is a non-zero exit). Use `;`
   between independent steps, or guard with `|| true`.
-- **The shell keeps its cwd between calls.** After a `cd wiki/articles`, a
-  later `cd wiki/articles` fails. Use absolute paths or check `pwd` first.
+- **The shell keeps its cwd between calls.** After a `cd wiki/bot/bot-pages`, a
+  later relative `cd` may fail. Use absolute paths or check `pwd` first.
 - **Sandbox**: `tee` into the repo can fail with *Operation not permitted*;
   write logs to `/tmp` or run network/publish steps as approved commands.
 

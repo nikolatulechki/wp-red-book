@@ -18,6 +18,10 @@ COLUMNS = [
     "wp_url",
     "wikidata_qid",
     "redbook_url",
+    "rb_bg_name",
+    "rb_taxon",
+    "wd_bg_name",
+    "wd_taxon",
     "content_status",
     "wd_linked",
     "notes",
@@ -34,7 +38,11 @@ TAXON_FIXES = {
 
 def load_rows(path: Path = TRACKING) -> list[dict]:
     with path.open(encoding="utf-8", newline="") as f:
-        return list(csv.DictReader(f))
+        rows = list(csv.DictReader(f))
+    for r in rows:
+        for col in COLUMNS:
+            r.setdefault(col, "")
+    return rows
 
 
 def save_rows(rows: list[dict], path: Path = TRACKING) -> None:

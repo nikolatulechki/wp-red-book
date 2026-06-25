@@ -81,6 +81,8 @@ One row per species. Columns (defined in `scripts/common.py`):
 | `wp_url` | canonical article URL (when it exists) | `check_wp_exists.py` |
 | `wikidata_qid` | Wikidata QID for the taxon | `reconcile_taxa.py` |
 | `redbook_url` | e-ecodb.bas.bg article URL | `build_redbook_map.py` |
+| `rb_bg_name` | Bulgarian name exactly as on e-ecodb index | `build_redbook_map.py` |
+| `rb_taxon` | Latin name exactly as on e-ecodb index | `build_redbook_map.py` |
 | `content_status` | `todo`/`draft`/`created`/`published`/`published_bot` | manual |
 | `wd_linked` | `yes` once the Wikidata `bgwiki` sitelink is set | `link_wikidata_sitelinks.py` |
 | `notes` | warnings, redirects, low-confidence matches | all scripts |

@@ -70,6 +70,8 @@ COLUMNS = [
     "wp_url",           # (step 1)
     "wikidata_qid",     # (step 2)
     "redbook_url",      # (step 3)
+    "rb_bg_name",       # exact Bulgarian from e-ecodb index (step 3)
+    "rb_taxon",         # exact Latin from e-ecodb index (step 3)
     "content_status",   # todo / draft / created / published  (step 4)
     "notes",
 ]
@@ -135,6 +137,8 @@ def parse() -> tuple[list[dict], list[tuple[int, str]]]:
                 "wp_url": "",
                 "wikidata_qid": "",
                 "redbook_url": "",
+                "rb_bg_name": "",
+                "rb_taxon": "",
                 "content_status": "todo",
                 "notes": note,
             }

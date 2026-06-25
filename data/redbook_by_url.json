@@ -1,0 +1,4382 @@
+{
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Acaspino.html": {
+"rb_bg_name": "Бодлив страшник",
+"rb_taxon": "Acanthus spinosus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aceheldr.html": {
+"rb_bg_name": "Планински явор",
+"rb_taxon": "Acer heldreichii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Achchrys.html": {
+"rb_bg_name": "Беловлакнест равнец",
+"rb_taxon": "Achillea chrysocoma"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Achkotsc.html": {
+"rb_bg_name": "Кочиев равнец",
+"rb_taxon": "Achillea kotschyi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Achlepto.html": {
+"rb_bg_name": "Прилегналовлакнест равнец",
+"rb_taxon": "Achillea leptophylla"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Achthrac.html": {
+"rb_bg_name": "Тракийски равнец",
+"rb_taxon": "Achillea thracica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Adicapil.html": {
+"rb_bg_name": "Венерин косъм",
+"rb_taxon": "Adiantum capillus-veneris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Adomicro.html": {
+"rb_bg_name": "Дребноплоден горицвет",
+"rb_taxon": "Adonis microcarpa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aegcomos.html": {
+"rb_bg_name": "Качулесто диво жито",
+"rb_taxon": "Aegilops comosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aegdicha.html": {
+"rb_bg_name": "Опашаго диво жито",
+"rb_taxon": "Aegilops dichasians"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aellitto.html": {
+"rb_bg_name": "Крайбрежен елуропус",
+"rb_taxon": "Aeluropus littoralis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aeshippo.html": {
+"rb_bg_name": "Конски кестен",
+"rb_taxon": "Aesculus hippocastanum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aetarabi.html": {
+"rb_bg_name": "Арабска етионема",
+"rb_taxon": "Aethionema arabicum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Agaaltip.html": {
+"rb_bg_name": "Дългопънчеста печурка",
+"rb_taxon": "Agaricus altipes"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Agabohus.html": {
+"rb_bg_name": "Бохусова печурка",
+"rb_taxon": "Agaricus bohusii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Agaesset.html": {
+"rb_bg_name": "Клубеновидна печурка",
+"rb_taxon": "Agaricus essettei"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Agamacro.html": {
+"rb_bg_name": "Едроплодна печурка",
+"rb_taxon": "Agaricus macrocarpus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Agasquam.html": {
+"rb_bg_name": "Дребнолюспеста печурка",
+"rb_taxon": "Agaricus squamulifer"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Albpes.html": {
+"rb_bg_name": "Кози крак",
+"rb_taxon": "Albatrellus pes-caprae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alcachta.html": {
+"rb_bg_name": "Ахтарово шапиче",
+"rb_taxon": "Alchemilla achtarowii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alcaster.html": {
+"rb_bg_name": "Звездоцветно шапиче",
+"rb_taxon": "Alchemilla asteroantha"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alcbande.html": {
+"rb_bg_name": "Бъндерицово шапиче",
+"rb_taxon": "Alchemilla bandericensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alccatac.html": {
+"rb_bg_name": "Балканско шапиче",
+"rb_taxon": "Alchemilla catachnoa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alcfissa.html": {
+"rb_bg_name": "Врязанолистно шапиче",
+"rb_taxon": "Alchemilla fissa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alcheter.html": {
+"rb_bg_name": "Разнолистно шапиче",
+"rb_taxon": "Alchemilla heterophylla"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alcindiv.html": {
+"rb_bg_name": "Неразделнолистно шапиче",
+"rb_taxon": "Alchemilla indivisa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alcjumru.html": {
+"rb_bg_name": "Юмрукчалско шапиче",
+"rb_taxon": "Alchemilla jumrukczalica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alcmolli.html": {
+"rb_bg_name": "Меколистно шапиче",
+"rb_taxon": "Alchemilla mollis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alcplica.html": {
+"rb_bg_name": "Сгънатолистно шапиче",
+"rb_taxon": "Alchemilla plicatula"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alcpyren.html": {
+"rb_bg_name": "Пиренейско шапиче",
+"rb_taxon": "Alchemilla pyrenaica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alcstram.html": {
+"rb_bg_name": "Жълтеникаво шапиче",
+"rb_taxon": "Alchemilla straminea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aldvesic.html": {
+"rb_bg_name": "Алдрованда",
+"rb_taxon": "Aldrovanda vesiculosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alebicuc.html": {
+"rb_bg_name": "Двувърха алеурия",
+"rb_taxon": "Aleuria bicuculata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alkjorda.html": {
+"rb_bg_name": "Йорданова айважива",
+"rb_taxon": "Alkanna jordanovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alkstoja.html": {
+"rb_bg_name": "Стоянова айважива",
+"rb_taxon": "Alkanna stojanovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alktinct.html": {
+"rb_bg_name": "Синя айважива",
+"rb_taxon": "Alkanna tinctoria"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Allangul.html": {
+"rb_bg_name": "Ръбестостъблен лук",
+"rb_taxon": "Allium angulosum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alothrac.html": {
+"rb_bg_name": "Тракийска класица",
+"rb_taxon": "Alopecurus thracicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alyborza.html": {
+"rb_bg_name": "Борзеанов игловръх",
+"rb_taxon": "Alyssum borzaeanum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alyorbel.html": {
+"rb_bg_name": "Орбелийски игловръх",
+"rb_taxon": "Alyssum orbelicum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Alypirin.html": {
+"rb_bg_name": "Пирински игловръх",
+"rb_taxon": "Alyssum pirinicum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Amacaesa.html": {
+"rb_bg_name": "Булка гъба",
+"rb_taxon": "Amanita caesarea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Amaovoid.html": {
+"rb_bg_name": "Яйцевидна мухоморка",
+"rb_taxon": "Amanita ovoidea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Amastrob.html": {
+"rb_bg_name": "Шишарковидна мухоморка",
+"rb_taxon": "Amanita strobiliformis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Amydelip.html": {
+"rb_bg_name": "Вебиев див бадем",
+"rb_taxon": "Amygdalus delipavlovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Amylappo.html": {
+"rb_bg_name": "Северен амилоцистис",
+"rb_taxon": "Amylocystis lapponicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ancdavid.html": {
+"rb_bg_name": "Давидово винче",
+"rb_taxon": "Anchusa davidovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ancmaced.html": {
+"rb_bg_name": "Македонско винче",
+"rb_taxon": "Anchusa macedonica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ancstylo.html": {
+"rb_bg_name": "Дългостълбчесто винче",
+"rb_taxon": "Anchusa stylosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Andobtus.html": {
+"rb_bg_name": "Тъполистен оклоп",
+"rb_taxon": "Androsace obtusifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Andtelep.html": {
+"rb_bg_name": "Андрахне",
+"rb_taxon": "Andrachne telephioides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Anegrave.html": {
+"rb_bg_name": "Обикновен копър",
+"rb_taxon": "Anetum graveolens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Anorostr.html": {
+"rb_bg_name": "Anomodon rostratus",
+"rb_taxon": "Anomodon rostratus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Antargyr.html": {
+"rb_bg_name": "Маришко подрумиче",
+"rb_taxon": "Anthemis argyrophylla"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Antauric.html": {
+"rb_bg_name": "Уховидно подрумиче",
+"rb_taxon": "Anthemis auriculata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Antgaudi.html": {
+"rb_bg_name": "Оранжево подрумиче",
+"rb_taxon": "Anthemis gaudium-solis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Antheter.html": {
+"rb_bg_name": "Изменчива антродия",
+"rb_taxon": "Antrodia heteromorpha"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Antjorda.html": {
+"rb_bg_name": "Йорданово подрумиче",
+"rb_taxon": "Anthemis jordanovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Antjunip.html": {
+"rb_bg_name": "Хвойнова антродия",
+"rb_taxon": "Antrodia juniperina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Antmacra.html": {
+"rb_bg_name": "Едрокошничесто подрумиче",
+"rb_taxon": "Anthemis macrantha"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Antorbel.html": {
+"rb_bg_name": "Рилско подрумиче",
+"rb_taxon": "Anthemis orbelica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Antregis.html": {
+"rb_bg_name": "Борисово подрумиче",
+"rb_taxon": "Anthemis regis-borisii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Antrumel.html": {
+"rb_bg_name": "Румелийско подрумиче",
+"rb_taxon": "Anthemis rumelica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Antsanct.html": {
+"rb_bg_name": "Светииваново подрумиче",
+"rb_taxon": "Anthemis sancti-johannis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Antstrib.html": {
+"rb_bg_name": "Стрибърниево подрумиче",
+"rb_taxon": "Anthemis stribrnyi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Antvaill.html": {
+"rb_bg_name": "Вайлантова антродия",
+"rb_taxon": "Antrodia vaillantii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Antvires.html": {
+"rb_bg_name": "Плосколюспесто подрумиче",
+"rb_taxon": "Anthemis virescens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Apeinter.html": {
+"rb_bg_name": "Прекъсната ветрушка",
+"rb_taxon": "Apera interrupta"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aphpaten.html": {
+"rb_bg_name": "Aphanorhegma patens",
+"rb_taxon": "Aphanorhegma patens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Apinodif.html": {
+"rb_bg_name": "Възлестоцветна целина",
+"rb_taxon": "Apium nodiflorum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Araaurel.html": {
+"rb_bg_name": "Златиста арахнопезиза",
+"rb_taxon": "Arachnopeziza aurelia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aracolli.html": {
+"rb_bg_name": "Хълмова гъшарка",
+"rb_taxon": "Arabis collina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Araferdi.html": {
+"rb_bg_name": "Пиринска гъшарка",
+"rb_taxon": "Arabis ferdinandi-coburgii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Arbandra.html": {
+"rb_bg_name": "Гола кумарка",
+"rb_taxon": "Arbutus andrachne"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Arbunedo.html": {
+"rb_bg_name": "Жлезиста кумарка",
+"rb_taxon": "Arbutus unedo"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Arecilia.html": {
+"rb_bg_name": "Ресничеста песъчарка",
+"rb_taxon": "Arenaria ciliata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Arecreti.html": {
+"rb_bg_name": "Критска песъчарка",
+"rb_taxon": "Arenaria cretica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aregypso.html": {
+"rb_bg_name": "Азиатска песъчарка",
+"rb_taxon": "Arenaria gypsophiloides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Arepirin.html": {
+"rb_bg_name": "Пиринска песъчарка",
+"rb_taxon": "Arenaria pirinica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Arerhodo.html": {
+"rb_bg_name": "Родопска песъчарка",
+"rb_taxon": "Arenaria rhodopaea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Arerigid.html": {
+"rb_bg_name": "Твърдолистна песъчарка",
+"rb_taxon": "Arenaria rigida"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Arirotun.html": {
+"rb_bg_name": "Кръглолистна вълча ябълка",
+"rb_taxon": "Aristolochia rotunda"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Armmacro.html": {
+"rb_bg_name": "Едроплоден хрян",
+"rb_taxon": "Armoracia macrocarpa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Arrlobat.html": {
+"rb_bg_name": "Уховидна арения",
+"rb_taxon": "Arrhenia lobata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Artchama.html": {
+"rb_bg_name": "Планински пелин",
+"rb_taxon": "Artemisia chamaemelifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Arterian.html": {
+"rb_bg_name": "Алпийски пелин",
+"rb_taxon": "Artemisia eriantha"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Artpedem.html": {
+"rb_bg_name": "Скален пелин",
+"rb_taxon": "Artemisia pedemontana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aspinvol.html": {
+"rb_bg_name": "Странджанска лазаркиня",
+"rb_taxon": "Asperula involucrata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Asplepid.html": {
+"rb_bg_name": "Люспесто изтравниче",
+"rb_taxon": "Asplenium lepidum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aspsuber.html": {
+"rb_bg_name": "Пиринска лазаркиня",
+"rb_taxon": "Asperula suberosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Astalope.html": {
+"rb_bg_name": "Алпийско сграбиче",
+"rb_taxon": "Astragalus alopecurus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Astarnac.html": {
+"rb_bg_name": "Айтоски клин",
+"rb_taxon": "Astracantha arnacantha"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Astcorni.html": {
+"rb_bg_name": "Рогчест клин",
+"rb_taxon": "Astragalus corniculatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Astdasya.html": {
+"rb_bg_name": "Вълнестоцветен клин",
+"rb_taxon": "Astragalus dasyanthus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Astexsca.html": {
+"rb_bg_name": "Безстъблов клин",
+"rb_taxon": "Astragalus exscapus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Astglauc.html": {
+"rb_bg_name": "Сивосинкав клин",
+"rb_taxon": "Astragalus glaucus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Astlinum.html": {
+"rb_bg_name": "Звездолен",
+"rb_taxon": "Asterolinon linum-stellatum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Astlitto.html": {
+"rb_bg_name": "Черноморски астродаукус",
+"rb_taxon": "Astrodaucus littoralis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Astphyso.html": {
+"rb_bg_name": "Подуточашково клинавче",
+"rb_taxon": "Astragalus physocalyx"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Astpubif.html": {
+"rb_bg_name": "Мъхнатоцветен клин",
+"rb_taxon": "Astragalus pubiflorus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Astsesam.html": {
+"rb_bg_name": "Сусамовиден клин",
+"rb_taxon": "Astragalus sesameus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Astsuber.html": {
+"rb_bg_name": "Хаарбахиев клин",
+"rb_taxon": "Astragalus suberosus subsp. haarbachii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Astthrac.html": {
+"rb_bg_name": "Тракийски клин",
+"rb_taxon": "Astracantha thracica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Astwilmo.html": {
+"rb_bg_name": "Вилмотианов клин",
+"rb_taxon": "Astragalus wilmottianus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aubcolum.html": {
+"rb_bg_name": "Стълбчеста аубриета",
+"rb_taxon": "Aubrieta columnae subsp. pirinica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aubgraci.html": {
+"rb_bg_name": "Нежна аубриета",
+"rb_taxon": "Aubrieta gracilis subsp. scardica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aulandro.html": {
+"rb_bg_name": "Aulacomnium androgynum",
+"rb_taxon": "Aulacomnium androgynum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aurgenti.html": {
+"rb_bg_name": "Златистотръбеста манатарка",
+"rb_taxon": "Aureoboletus gentilis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Auruecht.html": {
+"rb_bg_name": "Българска ауриния",
+"rb_taxon": "Aurinia uechtritziana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aurvulga.html": {
+"rb_bg_name": "Обикновен аурискалпиум",
+"rb_taxon": "Auriscalpium vulgare"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Aveerian.html": {
+"rb_bg_name": "Добруджански овес",
+"rb_taxon": "Avena eriantha"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Barkunze.html": {
+"rb_bg_name": "Barbilophozia kunzeana",
+"rb_taxon": "Barbilophozia kunzeana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bashirsu.html": {
+"rb_bg_name": "Влакнеста басия",
+"rb_taxon": "Bassia hirsuta"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Batphall.html": {
+"rb_bg_name": "Фалоидна батареа",
+"rb_taxon": "Battarrea phalloides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bazflacc.html": {
+"rb_bg_name": "Bazzania flaccida",
+"rb_taxon": "Bazzania flaccida"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Belsarma.html": {
+"rb_bg_name": "Белевалия",
+"rb_taxon": "Bellevalia sarmatica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Betbulga.html": {
+"rb_bg_name": "Български ранилист",
+"rb_taxon": "Betonica bulgarica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bethauss.html": {
+"rb_bg_name": "Балкански ранилист",
+"rb_taxon": "Betonica haussknechtii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Betscard.html": {
+"rb_bg_name": "Шарпланински ранилист",
+"rb_taxon": "Betonica scardica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bolarmen.html": {
+"rb_bg_name": "Кайсиевоцветна манатарка",
+"rb_taxon": "Boletus armeniacus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bolcauca.html": {
+"rb_bg_name": "Кавказка манатарка",
+"rb_taxon": "Boletus caucasicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Boldepil.html": {
+"rb_bg_name": "Габърова манатарка",
+"rb_taxon": "Boletus depilatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Boldupai.html": {
+"rb_bg_name": "Кървавочервена манатарка",
+"rb_taxon": "Boletus dupainii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bolleuco.html": {
+"rb_bg_name": "Съждивосив болетопсис",
+"rb_taxon": "Boletopsis leucomelaena"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bolluteo.html": {
+"rb_bg_name": "Медножълта манатарка",
+"rb_taxon": "Boletus luteocupreus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bolmorav.html": {
+"rb_bg_name": "Моравска манатарка",
+"rb_taxon": "Boletus moravicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bolparas.html": {
+"rb_bg_name": "Паразитна манатарка",
+"rb_taxon": "Boletus parasiticus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bolperma.html": {
+"rb_bg_name": "Великолепна манатарка",
+"rb_taxon": "Boletus permagnificus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bolpersi.html": {
+"rb_bg_name": "Прасковеноцветна манатарка",
+"rb_taxon": "Boletus persicolor"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bolpseud.html": {
+"rb_bg_name": "Яркожълта манатарка",
+"rb_taxon": "Boletus pseudosulphureus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bolpulve.html": {
+"rb_bg_name": "Напрашена манатарка",
+"rb_taxon": "Boletus pulverulentus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bolregiu.html": {
+"rb_bg_name": "Царска манатарка",
+"rb_taxon": "Boletus regius"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bolrhodo.html": {
+"rb_bg_name": "Пурпурна манатарка",
+"rb_taxon": "Boletus rhodopurpureus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bolroseo.html": {
+"rb_bg_name": "Розовееща манатарка",
+"rb_taxon": "Boletus roseoalbidus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bolsatan.html": {
+"rb_bg_name": "Дяволска манатарка",
+"rb_taxon": "Boletus satanas"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bonmesen.html": {
+"rb_bg_name": "Планинска бондарцевия",
+"rb_taxon": "Bondarzewia mesenterica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Botglobo.html": {
+"rb_bg_name": "Кълбовидна ботриотиния",
+"rb_taxon": "Botryotinia globosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Botmatri.html": {
+"rb_bg_name": "Лайколистна лунна папрат",
+"rb_taxon": "Botrychium matricariifolium"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bovgrave.html": {
+"rb_bg_name": "Миризлива пърхутка",
+"rb_taxon": "Bovista graveolens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bragehee.html": {
+"rb_bg_name": "Brachythecium geheebii",
+"rb_taxon": "Brachythecium geheebii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Brajorda.html": {
+"rb_bg_name": "Пиринско зеле",
+"rb_taxon": "Brassica jordanoffii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bratrich.html": {
+"rb_bg_name": "Brachydontium trichodes",
+"rb_taxon": "Brachydontium trichodes"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Breprate.html": {
+"rb_bg_name": "Breidleria pratensis",
+"rb_taxon": "Breidleria pratensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Brolance.html": {
+"rb_bg_name": "Едрокласа овсига",
+"rb_taxon": "Bromus lanceolatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Broparil.html": {
+"rb_bg_name": "Парилска овсига",
+"rb_taxon": "Bromus parilicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Brycyclo.html": {
+"rb_bg_name": "Bryum cyclophyllum",
+"rb_taxon": "Bryum cyclophyllum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Brygemmi.html": {
+"rb_bg_name": "Bryum gemmiparum",
+"rb_taxon": "Bryum gemmiparum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bryhypno.html": {
+"rb_bg_name": "Bryopsis hypnoides",
+"rb_taxon": "Bryopsis hypnoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Brymilde.html": {
+"rb_bg_name": "Bryum mildeanum",
+"rb_taxon": "Bryum mildeanum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Brytorqu.html": {
+"rb_bg_name": "Bryum torquescens",
+"rb_taxon": "Bryum torquescens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bucligni.html": {
+"rb_bg_name": "Дърворазрушаваща манатарка",
+"rb_taxon": "Buchwaldoboletus lignicola"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bunferul.html": {
+"rb_bg_name": "Буниум",
+"rb_taxon": "Bunium ferulaceum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Buplongi.html": {
+"rb_bg_name": "Дълголиста урока",
+"rb_taxon": "Bupleurum longifolium"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bupodont.html": {
+"rb_bg_name": "Зъбчата урока",
+"rb_taxon": "Bupleurum odontites"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Bupranun.html": {
+"rb_bg_name": "Лютиковидна урока",
+"rb_taxon": "Bupleurum ranunculoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Buxaphyl.html": {
+"rb_bg_name": "Buxbaumia aphylla",
+"rb_taxon": "Buxbaumia aphylla"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Calfissa.html": {
+"rb_bg_name": "Calypogeia fissa",
+"rb_taxon": "Calypogeia fissa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Calgigan.html": {
+"rb_bg_name": "Calliergon giganteum",
+"rb_taxon": "Calliergon giganteum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Calparna.html": {
+"rb_bg_name": "Парнасиеволистна калдезия",
+"rb_taxon": "Caldesia parnassifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Calpolyp.html": {
+"rb_bg_name": "Кичест блатняк",
+"rb_taxon": "Caltha polypetala"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Calsolda.html": {
+"rb_bg_name": "Крайморско чадърче",
+"rb_taxon": "Calystegia soldanella"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Calsphag.html": {
+"rb_bg_name": "Calypogeia sphagnicola",
+"rb_taxon": "Calypogeia sphagnicola"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Camcochl.html": {
+"rb_bg_name": "Дребна камбанка",
+"rb_taxon": "Campanula cochlearifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cameuxin.html": {
+"rb_bg_name": "Евксинска камбанка",
+"rb_taxon": "Campanula euxina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Camjorda.html": {
+"rb_bg_name": "Йорданова камбанка",
+"rb_taxon": "Campanula jordanovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Camlanat.html": {
+"rb_bg_name": "Вълнеста камбанка",
+"rb_taxon": "Campanula lanata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Camlatif.html": {
+"rb_bg_name": "Широколистна камбанка",
+"rb_taxon": "Campanula latifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Camorpha.html": {
+"rb_bg_name": "Орфанидиева камбанка",
+"rb_taxon": "Campanula orphanidea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Campolyg.html": {
+"rb_bg_name": "Campylium polygamum",
+"rb_taxon": "Campylium polygamum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Camthyrs.html": {
+"rb_bg_name": "Пирамидална камбанка",
+"rb_taxon": "Campanula thyrsoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Camtrans.html": {
+"rb_bg_name": "Трансилванска камбанка",
+"rb_taxon": "Campanula transsilvanica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Camversi.html": {
+"rb_bg_name": "Променливоцветна камбанка",
+"rb_taxon": "Campanula versicolor"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Canfries.html": {
+"rb_bg_name": "Фризиев пачи крак",
+"rb_taxon": "Cantharellus friesii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Capbursa.html": {
+"rb_bg_name": "Тракийска овчарска торбичка",
+"rb_taxon": "Capsella bursa-pastoris subsp. thracica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Caradpre.html": {
+"rb_bg_name": "Прилегналолюспест магарешки бодил",
+"rb_taxon": "Carduus adpressus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Carelata.html": {
+"rb_bg_name": "Туфеста острица",
+"rb_taxon": "Carex elata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Carfrute.html": {
+"rb_bg_name": "Храстовидна карагана",
+"rb_taxon": "Caragana frutex subsp. mollis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Carlimos.html": {
+"rb_bg_name": "Тинеста острица",
+"rb_taxon": "Carex limosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Carparvi.html": {
+"rb_bg_name": "Дребноцветна горва",
+"rb_taxon": "Cardamine parviflora"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Carthrac.html": {
+"rb_bg_name": "Тракийски магарешки бодил",
+"rb_taxon": "Carduus thracicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cassativ.html": {
+"rb_bg_name": "Кестен",
+"rb_taxon": "Castanea sativa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Catimper.html": {
+"rb_bg_name": "Царска катателазма",
+"rb_taxon": "Catathelasma imperiale"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Celglabr.html": {
+"rb_bg_name": "Гола копривка",
+"rb_taxon": "Celtis glabrata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cenbovin.html": {
+"rb_bg_name": "Волска метличина",
+"rb_taxon": "Centaurea bovina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cencaloc.html": {
+"rb_bg_name": "Тъмнопурпурна метличина",
+"rb_taxon": "Centaurea calocephala"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cenfinaz.html": {
+"rb_bg_name": "Скална метличина",
+"rb_taxon": "Centaurea finazzeri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cengraci.html": {
+"rb_bg_name": "Нежна метличина",
+"rb_taxon": "Centaurea gracilenta"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cenimman.html": {
+"rb_bg_name": "Имануелова метличина",
+"rb_taxon": "Centaurea immanuelis-loewii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ceninerm.html": {
+"rb_bg_name": "Небодлива метличина",
+"rb_taxon": "Centaurea inermis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cenjanka.html": {
+"rb_bg_name": "Янкиева метличина",
+"rb_taxon": "Centaurea jankae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cenkelle.html": {
+"rb_bg_name": "Келереров центрантус",
+"rb_taxon": "Centranthus kellereri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cenkerne.html": {
+"rb_bg_name": "Кернерова метличина",
+"rb_taxon": "Centaurea kernerana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cenmanna.html": {
+"rb_bg_name": "Манагетова метличина",
+"rb_taxon": "Centaurea mannagettae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cenmarit.html": {
+"rb_bg_name": "Морски червен кантарион",
+"rb_taxon": "Centaurium maritimum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cennigre.html": {
+"rb_bg_name": "Чернееща метличина",
+"rb_taxon": "Centaurea nigrescens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cenparil.html": {
+"rb_bg_name": "Парилска метличина",
+"rb_taxon": "Centaurea parilica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cenrumel.html": {
+"rb_bg_name": "Румелийска метличина",
+"rb_taxon": "Centaurea rumelica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Centrine.html": {
+"rb_bg_name": "Тройножилчеста метличина",
+"rb_taxon": "Centaurea trinervia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cenwagen.html": {
+"rb_bg_name": "Вагеницова метличина",
+"rb_taxon": "Centaurea wagenitziana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cepcaten.html": {
+"rb_bg_name": "Cephalozia catenulata",
+"rb_taxon": "Cephalozia catenulata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cepepipa.html": {
+"rb_bg_name": "Дремников главопрашник",
+"rb_taxon": "Cephalanthera epipactoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cephampe.html": {
+"rb_bg_name": "Cephaloziella hampeana",
+"rb_taxon": "Cephaloziella hampeana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ceploitl.html": {
+"rb_bg_name": "Cephalozia loitlesbergeri",
+"rb_taxon": "Cephalozia loitlesbergeri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ceprubel.html": {
+"rb_bg_name": "Cephaloziella rubella",
+"rb_taxon": "Cephaloziella rubella"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cepturne.html": {
+"rb_bg_name": "Cephaloziella turneri",
+"rb_taxon": "Cephaloziella turneri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cermoesi.html": {
+"rb_bg_name": "Мизийски рожец",
+"rb_taxon": "Cerastium moesiacum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Chafriva.html": {
+"rb_bg_name": "Фривалдскиев зановец",
+"rb_taxon": "Chamaecytisus frivaldszkyanus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Chakokei.html": {
+"rb_bg_name": "Chara kokeilii",
+"rb_taxon": "Chara kokeilii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Chakovac.html": {
+"rb_bg_name": "Ковачев зановец",
+"rb_taxon": "Chamaecytisus kovacevii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Chechlor.html": {
+"rb_bg_name": "Cheilothela chloropus",
+"rb_taxon": "Cheilothela chloropus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Chomaean.html": {
+"rb_bg_name": "Извитожилковиден бял трюфел",
+"rb_taxon": "Choiromyces maeandriformis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Chourumo.html": {
+"rb_bg_name": "Урумов кривец",
+"rb_taxon": "Chondrilla urumoffii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cicmontb.html": {
+"rb_bg_name": "Цариградски нахут",
+"rb_taxon": "Cicer montbretii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cicpanci.html": {
+"rb_bg_name": "Панчичев млечник",
+"rb_taxon": "Cicerbita pancicii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cicplumi.html": {
+"rb_bg_name": "Перест млечник",
+"rb_taxon": "Cicerbita plumieri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cicviros.html": {
+"rb_bg_name": "Отровна цикута",
+"rb_taxon": "Cicuta virosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ciralatu.html": {
+"rb_bg_name": "Крилата паламида",
+"rb_taxon": "Cirsium alatum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cirbulga.html": {
+"rb_bg_name": "Българска паламида",
+"rb_taxon": "Cirsium bulgaricum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cirstoja.html": {
+"rb_bg_name": "Стоянова паламида",
+"rb_taxon": "Cirsium stojanovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cissalvi.html": {
+"rb_bg_name": "Тамянка",
+"rb_taxon": "Cistus salvifolius"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Claarche.html": {
+"rb_bg_name": "Арчеров клатрус",
+"rb_taxon": "Clathrus archeri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Clamaris.html": {
+"rb_bg_name": "Режещ кладиум",
+"rb_taxon": "Cladium mariscus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Clapyxid.html": {
+"rb_bg_name": "Чашеносещ корал",
+"rb_taxon": "Clavicorona pyxidata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Clatrunc.html": {
+"rb_bg_name": "Отсеченовърха бухалка",
+"rb_taxon": "Clavariadelphus truncatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cligiova.html": {
+"rb_bg_name": "Джованелиев клитопилус",
+"rb_taxon": "Clitopilus giovanellae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Clivermi.html": {
+"rb_bg_name": "Вкореняваща се орешарка",
+"rb_taxon": "Clitocybe vermicularis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Colbivon.html": {
+"rb_bg_name": "Широколистен мразовец",
+"rb_taxon": "Colchicum bivonae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Coldavid.html": {
+"rb_bg_name": "Давидов мразовец",
+"rb_taxon": "Colchicum davidovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Coldiamp.html": {
+"rb_bg_name": "Ямболски мразовец",
+"rb_taxon": "Colchicum diampolis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Coldoerf.html": {
+"rb_bg_name": "Дьорфлеров мразовец",
+"rb_taxon": "Colchicum doerfleri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Conaltha.html": {
+"rb_bg_name": "Ружевидна поветица",
+"rb_taxon": "Convolvulus althaeoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Conboiss.html": {
+"rb_bg_name": "Скална поветица",
+"rb_taxon": "Convolvulus boissieri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Conholos.html": {
+"rb_bg_name": "Сребриста поветица",
+"rb_taxon": "Convolvulus holosericeus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Conlinea.html": {
+"rb_bg_name": "Тяснолистна поветица",
+"rb_taxon": "Convolvulus lineatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Conpersi.html": {
+"rb_bg_name": "Персийска поветица",
+"rb_taxon": "Convolvulus persicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Corbulli.html": {
+"rb_bg_name": "Бюлярдов паяжинник",
+"rb_taxon": "Cortinarius bulliardii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Corcaesi.html": {
+"rb_bg_name": "Сивосинкав паяжинник",
+"rb_taxon": "Cortinarius caesiocanescens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Corcoeru.html": {
+"rb_bg_name": "Тъмносин паяжинник",
+"rb_taxon": "Cortinarius coerulescens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Corcoria.html": {
+"rb_bg_name": "Corsinia coriandrina",
+"rb_taxon": "Corsinia coriandrina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cordivar.html": {
+"rb_bg_name": "Съчленен коринефорус",
+"rb_taxon": "Corynephorus divaricatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cormarsc.html": {
+"rb_bg_name": "Маршалска камилска трева",
+"rb_taxon": "Corispermum marschalii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Corpraes.html": {
+"rb_bg_name": "Превъзходен паяжинник",
+"rb_taxon": "Cortinarius praestans"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Corviola.html": {
+"rb_bg_name": "Виолетов паяжинник",
+"rb_taxon": "Cortinarius violaceus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cotpanno.html": {
+"rb_bg_name": "Розетка",
+"rb_taxon": "Cotylidia pannosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cramicro.html": {
+"rb_bg_name": "Дребнолистен глог",
+"rb_taxon": "Crataegus microphylla"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cratatar.html": {
+"rb_bg_name": "Татарско диво зеле",
+"rb_taxon": "Crambe tataria"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cratilla.html": {
+"rb_bg_name": "Дебелолист",
+"rb_taxon": "Crassula tillaea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Crebithy.html": {
+"rb_bg_name": "Битинска дрипавка",
+"rb_taxon": "Crepis bithynica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Crecreti.html": {
+"rb_bg_name": "Креса",
+"rb_taxon": "Cressa cretica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Creschac.html": {
+"rb_bg_name": "Шахтиева дрипавка",
+"rb_taxon": "Crepis schachtii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Crestoja.html": {
+"rb_bg_name": "Стоянова дрипавка",
+"rb_taxon": "Crepis stojanovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Crimarit.html": {
+"rb_bg_name": "Морски копър",
+"rb_taxon": "Crithmum maritimum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Crimaure.html": {
+"rb_bg_name": "Мавритански кринипелис",
+"rb_taxon": "Crinipellis mauretanica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Crotomma.html": {
+"rb_bg_name": "Томасиниев минзухар",
+"rb_taxon": "Crocus tommasinianus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Crulatif.html": {
+"rb_bg_name": "Широколистна кръстатка",
+"rb_taxon": "Crucianella latifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cteproce.html": {
+"rb_bg_name": "Ctenidium procerrimum",
+"rb_taxon": "Ctenidium procerrimum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cyaachta.html": {
+"rb_bg_name": "Ахтарова метличина",
+"rb_taxon": "Cyanus achtarovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cyapseud.html": {
+"rb_bg_name": "Дългогрудеста метличина",
+"rb_taxon": "Cyanus pseudoaxillaris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cyasterc.html": {
+"rb_bg_name": "Торен циатус",
+"rb_taxon": "Cyathus stercoreus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cyngerma.html": {
+"rb_bg_name": "Германска наумка",
+"rb_taxon": "Cynoglossum germanicum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cypcalce.html": {
+"rb_bg_name": "Венерина обувка",
+"rb_taxon": "Cypripedium calceolus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Cytclusi.html": {
+"rb_bg_name": "Червен цитинус",
+"rb_taxon": "Cytinus clusii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Dacincar.html": {
+"rb_bg_name": "Месесточервен дланокоренник",
+"rb_taxon": "Dactylorhiza incarnata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Dackalop.html": {
+"rb_bg_name": "Калописиев дланокоренник",
+"rb_taxon": "Dactylorhiza kalopissii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Dancompa.html": {
+"rb_bg_name": "Сбит овесец",
+"rb_taxon": "Danthoniastrum compactum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Dapblaga.html": {
+"rb_bg_name": "Благаево бясно дърво",
+"rb_taxon": "Daphne blagayana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Dapcneor.html": {
+"rb_bg_name": "Ниско бясно дърво",
+"rb_taxon": "Daphne cneorum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Daplaure.html": {
+"rb_bg_name": "Лаврово бясно дърво",
+"rb_taxon": "Daphne laureola"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Dapponti.html": {
+"rb_bg_name": "Странджанско бясно дърво",
+"rb_taxon": "Daphne pontica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Delalbif.html": {
+"rb_bg_name": "Белоцветен шпорец",
+"rb_taxon": "Delphinium albiflorum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Delbalca.html": {
+"rb_bg_name": "Балкански шпорец",
+"rb_taxon": "Delphinium balcanicum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Delpereg.html": {
+"rb_bg_name": "Чуждоземен шпорец",
+"rb_taxon": "Delphinium peregrinum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Diadreno.html": {
+"rb_bg_name": "Дреновскиев карамфил",
+"rb_taxon": "Dianthus drenowskyanus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Dianardi.html": {
+"rb_bg_name": "Картъловиден карамфил",
+"rb_taxon": "Dianthus nardiformis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Diapalli.html": {
+"rb_bg_name": "Бледоцветен карамфил",
+"rb_taxon": "Dianthus pallidiflorus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Diaponte.html": {
+"rb_bg_name": "Кладованов карамфил",
+"rb_taxon": "Dianthus pontederae subsp. kladovanus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Diasimul.html": {
+"rb_bg_name": "Туфест карамфил",
+"rb_taxon": "Dianthus simulans"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Diastrib.html": {
+"rb_bg_name": "Стрибърнов карамфил",
+"rb_taxon": "Dianthus stribrnyi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Dicberge.html": {
+"rb_bg_name": "Dicranum bergeri",
+"rb_taxon": "Dicranum bergeri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Dicdenud.html": {
+"rb_bg_name": "Dicranodontium denudatum",
+"rb_taxon": "Dicranodontium denudatum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Dicvirid.html": {
+"rb_bg_name": "Dicranum viride",
+"rb_taxon": "Dicranum viride"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Diglaevi.html": {
+"rb_bg_name": "Блестящ напръстник",
+"rb_taxon": "Digitalis laevigata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Dipcompl.html": {
+"rb_bg_name": "Сплескан дифазиаструм",
+"rb_taxon": "Diphasiastrum complanatum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Disleuco.html": {
+"rb_bg_name": "Жълто-бяла дисцина",
+"rb_taxon": "Discina leucoxantha"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Disvenos.html": {
+"rb_bg_name": "Жилковиден дисциотис",
+"rb_taxon": "Disciotis venosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ditpalli.html": {
+"rb_bg_name": "Ditrichum pallidum",
+"rb_taxon": "Ditrichum pallidum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Donexpan.html": {
+"rb_bg_name": "Донкиопория",
+"rb_taxon": "Donkioporia expansa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Drakorab.html": {
+"rb_bg_name": "Наплъстена рупа",
+"rb_taxon": "Draba korabensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Drasiliq.html": {
+"rb_bg_name": "Каринтийска рупа",
+"rb_taxon": "Draba siliquosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Drathymi.html": {
+"rb_bg_name": "Драконче",
+"rb_taxon": "Dracocephalum thymiflorum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Dravulga.html": {
+"rb_bg_name": "Обикновен дракункулус",
+"rb_taxon": "Dracunculus vulgaris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Dresendt.html": {
+"rb_bg_name": "Drepanocladus sendtneri",
+"rb_taxon": "Drepanocladus sendtneri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Echrussi.html": {
+"rb_bg_name": "Червено усойниче",
+"rb_taxon": "Echium russicum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Echsibth.html": {
+"rb_bg_name": "Ехинофора",
+"rb_taxon": "Echinophora sibthorpiana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Edrserbi.html": {
+"rb_bg_name": "Сръбски едрайант",
+"rb_taxon": "Edraianthus serbicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Elaalsin.html": {
+"rb_bg_name": "Прешленолистен надводник",
+"rb_taxon": "Elatine alsinastrum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Elagranu.html": {
+"rb_bg_name": "Зърнест червенокафяв трюфел",
+"rb_taxon": "Elaphomyces granulatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Elamatti.html": {
+"rb_bg_name": "Обикновен еласмомицес",
+"rb_taxon": "Elasmomyces mattirolianus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Elatrian.html": {
+"rb_bg_name": "Тритичинков надводник",
+"rb_taxon": "Elatine triandra"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Elecarni.html": {
+"rb_bg_name": "Карниолска блатница",
+"rb_taxon": "Eleocharis carniolica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Elypycna.html": {
+"rb_bg_name": "Гъстоцветен пирей",
+"rb_taxon": "Elymus pycnanthus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Elyvarne.html": {
+"rb_bg_name": "Варненски пирей",
+"rb_taxon": "Elymus varnensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Empnigru.html": {
+"rb_bg_name": "Черен емпетрум",
+"rb_taxon": "Empetrum nigrum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Endagari.html": {
+"rb_bg_name": "Печурковиден ендоптихум",
+"rb_taxon": "Endoptychum agaricoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ephfragi.html": {
+"rb_bg_name": "Катерлива ефедра",
+"rb_taxon": "Ephedra fragilis subsp. campylopoda"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ephrecur.html": {
+"rb_bg_name": "Ephemerum recurvifolium",
+"rb_taxon": "Ephemerum recurvifolium"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Epipalus.html": {
+"rb_bg_name": "Блатен дремник",
+"rb_taxon": "Epipactis palustris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Epipurpu.html": {
+"rb_bg_name": "Пурпурен дремник",
+"rb_taxon": "Epipactis purpurata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Erabulga.html": {
+"rb_bg_name": "Български ерантис",
+"rb_taxon": "Eranthis bulgaricus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Eriraven.html": {
+"rb_bg_name": "Равенски ериантус",
+"rb_taxon": "Erianthus ravennae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Eritrilo.html": {
+"rb_bg_name": "Триразделнолистен ериолобус",
+"rb_taxon": "Eriolobus trilobata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Eroabsin.html": {
+"rb_bg_name": "Балканско часовниче",
+"rb_taxon": "Erodium absinthoides subsp. balcanicum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Erycheir.html": {
+"rb_bg_name": "Шибойна боянка",
+"rb_taxon": "Erysimum cheiranthoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Erycreti.html": {
+"rb_bg_name": "Критски ветрогон",
+"rb_taxon": "Eryngium creticum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Erymarit.html": {
+"rb_bg_name": "Приморски ветрогон",
+"rb_taxon": "Eryngium maritimum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Eryquadr.html": {
+"rb_bg_name": "Четириръбеста боянка",
+"rb_taxon": "Erysimum quadrangulum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Eryslavj.html": {
+"rb_bg_name": "Алиботушка боянка",
+"rb_taxon": "Erysimum slavjankae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Eupalepp.html": {
+"rb_bg_name": "Алепска млечка",
+"rb_taxon": "Euphorbia aleppica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Eurpumil.html": {
+"rb_bg_name": "Eurhynchium pumilum",
+"rb_taxon": "Eurhynchium pumilum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Eurschle.html": {
+"rb_bg_name": "Eurhynchium schleicheri",
+"rb_taxon": "Eurhynchium schleicheri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ferorien.html": {
+"rb_bg_name": "Източна тамянка",
+"rb_taxon": "Ferula orientalis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Festhrac.html": {
+"rb_bg_name": "Тракийска власатка",
+"rb_taxon": "Festuca thracica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Fesvagin.html": {
+"rb_bg_name": "Влагалищна власатка",
+"rb_taxon": "Festuca vaginata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Fisfonta.html": {
+"rb_bg_name": "Fissidens fontanus",
+"rb_taxon": "Fissidens fontanus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Fisrivul.html": {
+"rb_bg_name": "Fissidens rivularis",
+"rb_taxon": "Fissidens rivularis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Flacanth.html": {
+"rb_bg_name": "Стройна флавосцифа",
+"rb_taxon": "Flavoscypha cantharella"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Fosangul.html": {
+"rb_bg_name": "Fossombronia angulosa",
+"rb_taxon": "Fossombronia angulosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Foshusno.html": {
+"rb_bg_name": "Fossombronia husnotii",
+"rb_taxon": "Fossombronia husnotii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Frapulve.html": {
+"rb_bg_name": "Франкения",
+"rb_taxon": "Frankenia pulverulenta"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Fridreno.html": {
+"rb_bg_name": "Дряновска ведрица",
+"rb_taxon": "Fritillaria drenovskii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Frimelea.html": {
+"rb_bg_name": "Шахматовидна ведрица",
+"rb_taxon": "Fritillaria meleagroides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Fristrib.html": {
+"rb_bg_name": "Стрибърнова ведрица",
+"rb_taxon": "Fritillaria stribrnyi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Frufragi.html": {
+"rb_bg_name": "Frullania fragilifolia",
+"rb_taxon": "Frullania fragilifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Frujacki.html": {
+"rb_bg_name": "Frullania jackii",
+"rb_taxon": "Frullania jackii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Fruripar.html": {
+"rb_bg_name": "Frullania riparia",
+"rb_taxon": "Frullania riparia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Galaegeu.html": {
+"rb_bg_name": "Егейско еньовче",
+"rb_taxon": "Galium aegeum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Galdemis.html": {
+"rb_bg_name": "Дребно еньовче",
+"rb_taxon": "Galium demisum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Galelwes.html": {
+"rb_bg_name": "Елвезиево кокиче",
+"rb_taxon": "Galanthus elwesii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Galmucro.html": {
+"rb_bg_name": "Островърха галилея",
+"rb_taxon": "Galilea mucronata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Galnival.html": {
+"rb_bg_name": "Снежно кокиче",
+"rb_taxon": "Galanthus nivalis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Galpalud.html": {
+"rb_bg_name": "Торфена галерина",
+"rb_taxon": "Galerina paludosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Galprocu.html": {
+"rb_bg_name": "Низбягващо еньовче",
+"rb_taxon": "Galium procurrens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Galrhodo.html": {
+"rb_bg_name": "Родопско еньовче",
+"rb_taxon": "Galium rhodopeum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Galsphag.html": {
+"rb_bg_name": "Сфагнова галерина",
+"rb_taxon": "Galerina sphagnorum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Galvelen.html": {
+"rb_bg_name": "Веленовскиево еньовче",
+"rb_taxon": "Galium velenovskyi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Geaquadr.html": {
+"rb_bg_name": "Четириделна земна звезда",
+"rb_taxon": "Geastrum quadrifidum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Genacaul.html": {
+"rb_bg_name": "Безстъблена тинтява",
+"rb_taxon": "Gentiana acaulis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Genamare.html": {
+"rb_bg_name": "Истинска горчивка",
+"rb_taxon": "Gentianella amarella"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gencrisp.html": {
+"rb_bg_name": "Къдрава горчивка",
+"rb_taxon": "Gentianella crispata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Genfrigi.html": {
+"rb_bg_name": "Скална тинтява",
+"rb_taxon": "Gentiana frigida"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gengerma.html": {
+"rb_bg_name": "Немска жълтуга",
+"rb_taxon": "Genista germanica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Genlutea.html": {
+"rb_bg_name": "Жълта тинтява",
+"rb_taxon": "Gentiana lutea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gennival.html": {
+"rb_bg_name": "Снежна тинтява",
+"rb_taxon": "Gentiana nivalis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Genpilos.html": {
+"rb_bg_name": "Влакнеста жълтуга",
+"rb_taxon": "Genista pilosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Genpunct.html": {
+"rb_bg_name": "Петниста тинтява",
+"rb_taxon": "Gentiana punctata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Geogluti.html": {
+"rb_bg_name": "Лепкаво земно езиче",
+"rb_taxon": "Geoglossum glutinosum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Geoumbra.html": {
+"rb_bg_name": "Чернеещ геоглосум",
+"rb_taxon": "Geoglossum umbratile"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gerarist.html": {
+"rb_bg_name": "Осилест здравец",
+"rb_taxon": "Geranium aristatum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gerbohem.html": {
+"rb_bg_name": "Бохемски здравец",
+"rb_taxon": "Geranium bohemicum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Germacro.html": {
+"rb_bg_name": "Едростълбчест здравец",
+"rb_taxon": "Geranium macrostylum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gertuber.html": {
+"rb_bg_name": "Грудков здравец",
+"rb_taxon": "Geranium tuberosum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Glyglabr.html": {
+"rb_bg_name": "Гол сладник",
+"rb_taxon": "Glycyrrhiza glabra"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gomclava.html": {
+"rb_bg_name": "Виолетова тръбенка",
+"rb_taxon": "Gomphus clavatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gonbesse.html": {
+"rb_bg_name": "Бесерова змийска трева",
+"rb_taxon": "Goniolimon besseranum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gondalma.html": {
+"rb_bg_name": "Далматинска змийска трева",
+"rb_taxon": "Goniolimon dalmaticum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Goorepen.html": {
+"rb_bg_name": "Пълзяща гудиера",
+"rb_taxon": "Goodyera repens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gracorac.html": {
+"rb_bg_name": "Гарванова градония",
+"rb_taxon": "Graddonia coracina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gricrini.html": {
+"rb_bg_name": "Grimmia crinita",
+"rb_taxon": "Grimmia crinita"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Grifrond.html": {
+"rb_bg_name": "Листовидна грифола",
+"rb_taxon": "Grifola frondosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Griteret.html": {
+"rb_bg_name": "Grimmia teretinervis",
+"rb_taxon": "Grimmia teretinervis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Grodensa.html": {
+"rb_bg_name": "Гъст ръждавец",
+"rb_taxon": "Groenlandia densa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gyptekir.html": {
+"rb_bg_name": "Текирска мишорка",
+"rb_taxon": "Gypsophila tekirae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gyptrich.html": {
+"rb_bg_name": "Тройновилужна мишорка",
+"rb_taxon": "Gypsophila trichotoma"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gyrgigas.html": {
+"rb_bg_name": "Гигантска дипленка",
+"rb_taxon": "Gyromitra gigas"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Gyrlivid.html": {
+"rb_bg_name": "Оловносив гиродон",
+"rb_taxon": "Gyrodon lividus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Haavenus.html": {
+"rb_bg_name": "Оранжевочервена хасиела",
+"rb_taxon": "Haasiella venustissima"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hampalud.html": {
+"rb_bg_name": "Блатна хамарбия",
+"rb_taxon": "Hammarbya paludosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hamverni.html": {
+"rb_bg_name": "Hamatocaulis vernicosus",
+"rb_taxon": "Hamatocaulis vernicosus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hapbalca.html": {
+"rb_bg_name": "Балкански цялолист",
+"rb_taxon": "Haplophyllum balcanicum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hedgrand.html": {
+"rb_bg_name": "Български жълт хедизарум",
+"rb_taxon": "Hedysarum grandiflorum subsp. bulgaricum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hedtauri.html": {
+"rb_bg_name": "Червен хедизарум",
+"rb_taxon": "Hedysarum tauricum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Helatra.html": {
+"rb_bg_name": "Черна бучка",
+"rb_taxon": "Helvella atra"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Helbland.html": {
+"rb_bg_name": "Helodium blandowii",
+"rb_taxon": "Helodium blandowii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Helephip.html": {
+"rb_bg_name": "Седловидна бучка",
+"rb_taxon": "Helvella ephippium"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hellacte.html": {
+"rb_bg_name": "Млечнобяла бучка",
+"rb_taxon": "Helvella lactea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Helleuco.html": {
+"rb_bg_name": "Паничковидна бучка",
+"rb_taxon": "Helvella leucomelaena"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Helpeziz.html": {
+"rb_bg_name": "Дисковидна бучка",
+"rb_taxon": "Helvella pezizoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Helphleb.html": {
+"rb_bg_name": "Набраздена бучка",
+"rb_taxon": "Helvella phlebophora"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Helplica.html": {
+"rb_bg_name": "Планински жълт смил",
+"rb_taxon": "Helichrysum plicatum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hererina.html": {
+"rb_bg_name": "Игловиден корал",
+"rb_taxon": "Hericium erinaceus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Herflage.html": {
+"rb_bg_name": "Алпийски корал",
+"rb_taxon": "Hericium flagellum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hermonor.html": {
+"rb_bg_name": "Едногрудков херминиум",
+"rb_taxon": "Herminium monorchis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hestheop.html": {
+"rb_bg_name": "Балкански вечерник",
+"rb_taxon": "Hesperis theophrasti"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hiebelog.html": {
+"rb_bg_name": "Белоградчишка рунянка",
+"rb_taxon": "Hieracium belogradcense"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hieheuff.html": {
+"rb_bg_name": "Хойфелови миши уши",
+"rb_taxon": "Hieracium heuffelii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hiekitta.html": {
+"rb_bg_name": "Киттанова рунянка",
+"rb_taxon": "Hieracium kittaniae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hievillo.html": {
+"rb_bg_name": "Вълнеста рунянка",
+"rb_taxon": "Hieracium villosum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hieviros.html": {
+"rb_bg_name": "Отровна рунянка",
+"rb_taxon": "Hieracium virosum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Himcapri.html": {
+"rb_bg_name": "Пърчовка",
+"rb_taxon": "Himantoglossum caprinum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hiprhamn.html": {
+"rb_bg_name": "Зърнастецов ракитник",
+"rb_taxon": "Hippophae rhamnoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hipunisi.html": {
+"rb_bg_name": "Едноцветна скална подкова",
+"rb_taxon": "Hippocrepis unisiliquosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hipvulga.html": {
+"rb_bg_name": "Хипурис",
+"rb_taxon": "Hippuris vulgaris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hotpalus.html": {
+"rb_bg_name": "Блатна перушина",
+"rb_taxon": "Hottonia palustris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hydauran.html": {
+"rb_bg_name": "Оранжев хиднелум",
+"rb_taxon": "Hydnellum aurantiacum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hydsuave.html": {
+"rb_bg_name": "Ароматен хиднелум",
+"rb_taxon": "Hydnellum suaveolens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hydtulas.html": {
+"rb_bg_name": "Тюланова хиднотрия",
+"rb_taxon": "Hydnotrya tulasnei"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hygarbus.html": {
+"rb_bg_name": "Ивичест хигрофорус",
+"rb_taxon": "Hygrophorus arbustivus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hygcerac.html": {
+"rb_bg_name": "Восъчна черешова гъба",
+"rb_taxon": "Hygrocybe ceracea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hygerube.html": {
+"rb_bg_name": "Червенеещ хигрофорус",
+"rb_taxon": "Hygrophorus erubescens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hygmurin.html": {
+"rb_bg_name": "Сивокафява черешова гъба",
+"rb_taxon": "Hygrocybe murinacea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hygpoeta.html": {
+"rb_bg_name": "Сивочервеникав хигрофорус",
+"rb_taxon": "Hygrophorus poetarum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hygpunic.html": {
+"rb_bg_name": "Тъмночервена черешова гъба",
+"rb_taxon": "Hygrocybe punicea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hymcirci.html": {
+"rb_bg_name": "Хименокарпос",
+"rb_taxon": "Hymenocarpоs circinatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hymluteu.html": {
+"rb_bg_name": "Жълт коренов трюфел",
+"rb_taxon": "Hymenogaster luteus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hymprocu.html": {
+"rb_bg_name": "Пълзящ хименолобус",
+"rb_taxon": "Hymenolobus procumbens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hymverru.html": {
+"rb_bg_name": "Ивичест коренов трюфел",
+"rb_taxon": "Hymenogaster verrucosus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hypandro.html": {
+"rb_bg_name": "Багрилна звъника",
+"rb_taxon": "Hypericum androsaemum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hypboiss.html": {
+"rb_bg_name": "Боасиерова звъника",
+"rb_taxon": "Hypericum boissieri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hypcalyc.html": {
+"rb_bg_name": "Чашковидна звъника",
+"rb_taxon": "Hypericum calycinum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hypcommu.html": {
+"rb_bg_name": "Обикновена хиподерма",
+"rb_taxon": "Hypoderma commune"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hypferti.html": {
+"rb_bg_name": "Hypnum fertile",
+"rb_taxon": "Hypnum fertile"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hypponti.html": {
+"rb_bg_name": "Черноморски хипекоум",
+"rb_taxon": "Hypecoum ponticum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hypsetif.html": {
+"rb_bg_name": "Четинест жълт кантарион",
+"rb_taxon": "Hypericum setiferum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Hypthasi.html": {
+"rb_bg_name": "Тасоска звъника",
+"rb_taxon": "Hypericum thasium"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ileaquif.html": {
+"rb_bg_name": "Бодливолистен джел",
+"rb_taxon": "Ilex aquifolium"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ilecolch.html": {
+"rb_bg_name": "Колхидски джел",
+"rb_taxon": "Ilex colchica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Impcylin.html": {
+"rb_bg_name": "Царска трева",
+"rb_taxon": "Imperata cylindrica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Inoander.html": {
+"rb_bg_name": "Андерсонов инонотус",
+"rb_taxon": "Inonotus andersonii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Inotamar.html": {
+"rb_bg_name": "Ракитовицов инонотус",
+"rb_taxon": "Inonotus tamaricis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Inoulmic.html": {
+"rb_bg_name": "Брястов инонотус",
+"rb_taxon": "Inonotus ulmicola"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Inuspira.html": {
+"rb_bg_name": "Елиптичнолистен оман",
+"rb_taxon": "Inula spiraeifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Iriaphyl.html": {
+"rb_bg_name": "Безлистна перуника",
+"rb_taxon": "Iris aphylla"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Isolacus.html": {
+"rb_bg_name": "Езерен шилолист",
+"rb_taxon": "Isoetes lacustris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Isomyosu.html": {
+"rb_bg_name": "Isothecium myosuroides",
+"rb_taxon": "Isothecium myosuroides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Juncaesp.html": {
+"rb_bg_name": "Jungermannia caespiticia",
+"rb_taxon": "Jungermannia caespiticia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Junconfe.html": {
+"rb_bg_name": "Jungermannia confertissima",
+"rb_taxon": "Jungermannia confertissima"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Junsabin.html": {
+"rb_bg_name": "Казашка хвойна",
+"rb_taxon": "Juniperus sabina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Juntrigl.html": {
+"rb_bg_name": "Трицветна дзука",
+"rb_taxon": "Juncus triglumis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Jurledeb.html": {
+"rb_bg_name": "Източен миск",
+"rb_taxon": "Jurinea ledebourii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Jurtzar.html": {
+"rb_bg_name": "Бодлив миск",
+"rb_taxon": "Jurinea tzar-ferdinandii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Kavhiman.html": {
+"rb_bg_name": "Обикновена кавиния",
+"rb_taxon": "Kavinia himantia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Knabyzan.html": {
+"rb_bg_name": "Византийско червеноглавче",
+"rb_taxon": "Knautia byzantina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Knadinar.html": {
+"rb_bg_name": "Динарско червеноглавче",
+"rb_taxon": "Knautia dinarica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Kobmyosu.html": {
+"rb_bg_name": "Белардиева кобрезия",
+"rb_taxon": "Kobresia myosuroides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Lacspino.html": {
+"rb_bg_name": "Дребмолюспеста млечница",
+"rb_taxon": "Lactarius spinosulus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Lactatar.html": {
+"rb_bg_name": "Татарска салата",
+"rb_taxon": "Lactuca tatarica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Lasarcha.html": {
+"rb_bg_name": "Архангелиев лазерпициум",
+"rb_taxon": "Laserpitium archangelica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Latalpes.html": {
+"rb_bg_name": "Алпийско секирче",
+"rb_taxon": "Lathyrus alpestris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Latfilif.html": {
+"rb_bg_name": "Нишковидно секирче",
+"rb_taxon": "Lathyrus filiformis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Latgrand.html": {
+"rb_bg_name": "Едроцветно секирче",
+"rb_taxon": "Lathyrus grandiflorus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Latlinif.html": {
+"rb_bg_name": "Ленолистно секирче",
+"rb_taxon": "Lathyrus linifolius"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Latpalus.html": {
+"rb_bg_name": "Блатно секирче",
+"rb_taxon": "Lathyrus palustris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Latpanci.html": {
+"rb_bg_name": "Панчичево секирче",
+"rb_taxon": "Lathyrus pancicii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Latsaxat.html": {
+"rb_bg_name": "Скално секирче",
+"rb_taxon": "Lathyrus saxatilis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Lattrans.html": {
+"rb_bg_name": "Трансилванско секирче",
+"rb_taxon": "Lathyrus transsilvanicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Lenervoi.html": {
+"rb_bg_name": "Южна леща",
+"rb_taxon": "Lens ervoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Lenursin.html": {
+"rb_bg_name": "Мечи лентинелус",
+"rb_taxon": "Lentinellus ursinus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Leoalpin.html": {
+"rb_bg_name": "Еделвайс",
+"rb_taxon": "Leontopodium alpinum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Leolubri.html": {
+"rb_bg_name": "Обикновена желатинова шапчица",
+"rb_taxon": "Leotia lubrica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Leosaxat.html": {
+"rb_bg_name": "Глухарчевидна жълтица",
+"rb_taxon": "Leontodon saxatilis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Leotuber.html": {
+"rb_bg_name": "Грудеста жълтица",
+"rb_taxon": "Leontodon tuberosus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Lephumil.html": {
+"rb_bg_name": "Leptodictyum humile",
+"rb_taxon": "Leptodictyum humile"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Leplusci.html": {
+"rb_bg_name": "Сиво-кафява леписта",
+"rb_taxon": "Lepista luscina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Leubulbi.html": {
+"rb_bg_name": "Луковичен паяжинник",
+"rb_taxon": "Leucocortinarius bulbiger"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Leucompa.html": {
+"rb_bg_name": "Трицветен леукопаксилус",
+"rb_taxon": "Leucopaxillus compactus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ligglauc.html": {
+"rb_bg_name": "Клинолистен див тютюн",
+"rb_taxon": "Ligularia glauca"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ligsibir.html": {
+"rb_bg_name": "Сибирски див тютюн",
+"rb_taxon": "Ligularia sibirica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Lilalban.html": {
+"rb_bg_name": "Албански крем",
+"rb_taxon": "Lilium albanicum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Lilrhodo.html": {
+"rb_bg_name": "Родопски крем",
+"rb_taxon": "Lilium rhodopaeum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Limaster.html": {
+"rb_bg_name": "Маноловска гърлица",
+"rb_taxon": "Limonium asterotrichum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Limbulga.html": {
+"rb_bg_name": "Българска гърлица",
+"rb_taxon": "Limonium bulgaricum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Limgliod.html": {
+"rb_bg_name": "Лепкава лимацела",
+"rb_taxon": "Limacella glioderma"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Limgmeli.html": {
+"rb_bg_name": "Гмелинова гърлица",
+"rb_taxon": "Limonium gmelini"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Limmeyer.html": {
+"rb_bg_name": "Мейерова гърлица",
+"rb_taxon": "Limonium meyeri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Linbrach.html": {
+"rb_bg_name": "Късолистна луличка",
+"rb_taxon": "Linaria brachyphylla"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Linelega.html": {
+"rb_bg_name": "Нежен лен",
+"rb_taxon": "Linum elegans"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Linpalla.html": {
+"rb_bg_name": "Паласов лен",
+"rb_taxon": "Linum pallasianum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Linprocu.html": {
+"rb_bg_name": "Нежна линдерния",
+"rb_taxon": "Lindernia procumbens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Linunine.html": {
+"rb_bg_name": "Едножилков лен",
+"rb_taxon": "Linum uninerve"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Liploese.html": {
+"rb_bg_name": "Льозелов липарис",
+"rb_taxon": "Liparis loeselii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Lloserot.html": {
+"rb_bg_name": "Късна лойдия",
+"rb_taxon": "Lloydia serotina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Loplongi.html": {
+"rb_bg_name": "Lophozia longidens",
+"rb_taxon": "Lophozia longidens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Lycinund.html": {
+"rb_bg_name": "Блатен плаун",
+"rb_taxon": "Lycopodiella inundata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Malorsin.html": {
+"rb_bg_name": "Ъглолистна малколмия",
+"rb_taxon": "Malcolmia orsiniana subsp. angulifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Manandro.html": {
+"rb_bg_name": "Mannia androgyna",
+"rb_taxon": "Mannia androgyna"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Mantrian.html": {
+"rb_bg_name": "Mannia triandra",
+"rb_taxon": "Mannia triandra"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Marfriwa.html": {
+"rb_bg_name": "Фривалдскиев пчелинок",
+"rb_taxon": "Marrubium friwaldskyanum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Marquadr.html": {
+"rb_bg_name": "Четирилистно разковниче",
+"rb_taxon": "Marsilea quadrifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Matodora.html": {
+"rb_bg_name": "Ароматна матиола",
+"rb_taxon": "Matthiola odoratissima"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Medcarst.html": {
+"rb_bg_name": "Карстова люцерна",
+"rb_taxon": "Medicago carstiensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Medconst.html": {
+"rb_bg_name": "Кълбоплодна люцерна",
+"rb_taxon": "Medicago constricta"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Medcoron.html": {
+"rb_bg_name": "Короноплодна люцерна",
+"rb_taxon": "Medicago coronata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Medlitto.html": {
+"rb_bg_name": "Крайбрежна люцерна",
+"rb_taxon": "Medicago littoralis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Medrhodo.html": {
+"rb_bg_name": "Родопска люцерна",
+"rb_taxon": "Medicago rhodopea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Meeuligi.html": {
+"rb_bg_name": "Meesia uliginosa",
+"rb_taxon": "Meesia uliginosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Melcornu.html": {
+"rb_bg_name": "Бодлива меластиза",
+"rb_taxon": "Melastiza cornubiensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Melvarie.html": {
+"rb_bg_name": "Пъстър меланогастер",
+"rb_taxon": "Melanogaster variegatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Mentrifo.html": {
+"rb_bg_name": "Водна детелина",
+"rb_taxon": "Menyanthes trifoliata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Merattic.html": {
+"rb_bg_name": "Атинска мерендера",
+"rb_taxon": "Merendera attica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Micfriva.html": {
+"rb_bg_name": "Фривалдска микромерия",
+"rb_taxon": "Micromeria frivaldszkyana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Micjulia.html": {
+"rb_bg_name": "Южна микромерия",
+"rb_taxon": "Micromeria juliana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Micprotr.html": {
+"rb_bg_name": "Алпийска чашка",
+"rb_taxon": "Microstoma protractum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Micstarc.html": {
+"rb_bg_name": "Microbryum starckeanum",
+"rb_taxon": "Microbryum starckeanum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Minmesog.html": {
+"rb_bg_name": "Азиатска мишовка",
+"rb_taxon": "Minuartia mesogitana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Minstoja.html": {
+"rb_bg_name": "Стоянова мишовка",
+"rb_taxon": "Minuartia stojanovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Mitpalud.html": {
+"rb_bg_name": "Блатна митрула",
+"rb_taxon": "Mitrula paludosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Mniambig.html": {
+"rb_bg_name": "Mnium ambiguum",
+"rb_taxon": "Mnium ambiguum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Moegrise.html": {
+"rb_bg_name": "Гризебахова кутявка",
+"rb_taxon": "Moehringia grisebachii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Moejanka.html": {
+"rb_bg_name": "Янкиева кутявка",
+"rb_taxon": "Moehringia jankae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Mutcanin.html": {
+"rb_bg_name": "Кучешки мутинус",
+"rb_taxon": "Mutinus caninus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Mylanoma.html": {
+"rb_bg_name": "Mylia anomala",
+"rb_taxon": "Mylia anomala"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Myrgerma.html": {
+"rb_bg_name": "Мирикария",
+"rb_taxon": "Myricaria germanica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Nargeosc.html": {
+"rb_bg_name": "Nardia geoscyphus",
+"rb_taxon": "Nardia geoscyphus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Necpenna.html": {
+"rb_bg_name": "Neckera pennata",
+"rb_taxon": "Neckera pennata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Necpumil.html": {
+"rb_bg_name": "Neckera pumila",
+"rb_taxon": "Neckera pumila"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Nemhelmi.html": {
+"rb_bg_name": "Nemalion helminthoides",
+"rb_taxon": "Nemalion helminthoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Neoalboc.html": {
+"rb_bg_name": "Бялоопасана неотиелла",
+"rb_taxon": "Neottiella albocincta"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Nigorien.html": {
+"rb_bg_name": "Източна челебитка",
+"rb_taxon": "Nigella orientalis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Nonobtus.html": {
+"rb_bg_name": "Тъполистна калугерка",
+"rb_taxon": "Nonea obtusifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Nuplutea.html": {
+"rb_bg_name": "Жълта водна роза",
+"rb_taxon": "Nuphar lutea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Nymalba.html": {
+"rb_bg_name": "Водна лилия",
+"rb_taxon": "Nymphaea alba"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Nympelta.html": {
+"rb_bg_name": "Щитолистни какички",
+"rb_taxon": "Nymphoides peltata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Octaster.html": {
+"rb_bg_name": "Звездоспорова октавиания",
+"rb_taxon": "Octaviania asterosperma"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Oentenui.html": {
+"rb_bg_name": "Странджански воден морач",
+"rb_taxon": "Oenanthe tenuifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ombviola.html": {
+"rb_bg_name": "Виолетова кегла",
+"rb_taxon": "Ombrophila violacea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ompaster.html": {
+"rb_bg_name": "Обикновен омфалиастер",
+"rb_taxon": "Omphaliaster asterosporus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Onorepen.html": {
+"rb_bg_name": "Пълзящ гръмотрън",
+"rb_taxon": "Ononis repens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Onorhodo.html": {
+"rb_bg_name": "Родопско омразниче",
+"rb_taxon": "Onosma rhodopea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ophapife.html": {
+"rb_bg_name": "Пчелоносно бръмбарче",
+"rb_taxon": "Ophrys apifera"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ophinsec.html": {
+"rb_bg_name": "Муховидна пчелица",
+"rb_taxon": "Ophrys insectifera"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ophreinh.html": {
+"rb_bg_name": "Рейнхолдова пчелица",
+"rb_taxon": "Ophrys reinholdii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Opochiro.html": {
+"rb_bg_name": "Български опопанакс",
+"rb_taxon": "Opopanax chironium subsp. bulgaricum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Orcmilit.html": {
+"rb_bg_name": "Шлемоносен салеп",
+"rb_taxon": "Orchis militaris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Orcprovi.html": {
+"rb_bg_name": "Провански салеп",
+"rb_taxon": "Orchis provincialis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Orcspitz.html": {
+"rb_bg_name": "Шпицелов салеп",
+"rb_taxon": "Orchis spitzelii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ortstell.html": {
+"rb_bg_name": "Orthotrichum stellatum",
+"rb_taxon": "Orthotrichum stellatum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Orturnig.html": {
+"rb_bg_name": "Orthotrichum urnigerum",
+"rb_taxon": "Orthotrichum urnigerum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Osmregal.html": {
+"rb_bg_name": "Величествена осмунда",
+"rb_taxon": "Osmunda regalis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Otamarit.html": {
+"rb_bg_name": "Крайморски отантус",
+"rb_taxon": "Otanthus maritimus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Oxykozuh.html": {
+"rb_bg_name": "Кожухаров окситропис",
+"rb_taxon": "Oxytropis kozuharovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Oxyurumo.html": {
+"rb_bg_name": "Урумов окситропис",
+"rb_taxon": "Oxytropis urumovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pacbabin.html": {
+"rb_bg_name": "Лещовидна пахиелла",
+"rb_taxon": "Pachyella babingtonii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Padpavon.html": {
+"rb_bg_name": "Padina pavonica",
+"rb_taxon": "Padina pavonica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Paemascu.html": {
+"rb_bg_name": "Розов божур",
+"rb_taxon": "Paeonia mascula"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Paetenui.html": {
+"rb_bg_name": "Теснолист божур",
+"rb_taxon": "Paeonia tenuifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Palspino.html": {
+"rb_bg_name": "Бодлив паленис",
+"rb_taxon": "Pallenis spinosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Panmarit.html": {
+"rb_bg_name": "Пясъчна лилия",
+"rb_taxon": "Pancratium maritimum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Papdegen.html": {
+"rb_bg_name": "Пирински мак",
+"rb_taxon": "Papaver degenii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Parincur.html": {
+"rb_bg_name": "Извит парафолис",
+"rb_taxon": "Parapholis incurva"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Parmyria.html": {
+"rb_bg_name": "Многоцветен парвотризетум",
+"rb_taxon": "Parvotrisetum myrianthum myrianthum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pedoeder.html": {
+"rb_bg_name": "Оедерово пропадниче",
+"rb_taxon": "Pedicularis oederi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pedpalus.html": {
+"rb_bg_name": "Блатно пропадниче",
+"rb_taxon": "Pedicularis palustris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Persanct.html": {
+"rb_bg_name": "Перидикцион",
+"rb_taxon": "Peridictyon sanctum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Petalpin.html": {
+"rb_bg_name": "Алпийска мантийка",
+"rb_taxon": "Petrorhagia alpina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Petbrach.html": {
+"rb_bg_name": "Петросимония",
+"rb_taxon": "Petrosimonia brachiata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Petthess.html": {
+"rb_bg_name": "Тесалийска мантийка",
+"rb_taxon": "Petrorhagia thessala"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Peupalus.html": {
+"rb_bg_name": "Блатна самодивска трева",
+"rb_taxon": "Peucedanum palustre"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Peuruthe.html": {
+"rb_bg_name": "Руска самодивска трева",
+"rb_taxon": "Peucedanum ruthenicum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pezbrunn.html": {
+"rb_bg_name": "Черно-кафява чашка",
+"rb_taxon": "Peziza brunneoatra"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pezmiche.html": {
+"rb_bg_name": "Червено-кафява чашка",
+"rb_taxon": "Peziza michelii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Phaaquat.html": {
+"rb_bg_name": "Грудеста тръстичина",
+"rb_taxon": "Phalaris aquatica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Phehippo.html": {
+"rb_bg_name": "Ракитников фелинус",
+"rb_taxon": "Phellinus hippopha¨icola"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Phepilat.html": {
+"rb_bg_name": "Пилатов фелинус",
+"rb_taxon": "Phellinus pilatii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Phevitic.html": {
+"rb_bg_name": "Смърчов фелинус",
+"rb_taxon": "Phellinus viticola"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Phiarnel.html": {
+"rb_bg_name": "Philonotis arnellii",
+"rb_taxon": "Philonotis arnellii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Phimarch.html": {
+"rb_bg_name": "Philonotis marchica",
+"rb_taxon": "Philonotis marchica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pholucif.html": {
+"rb_bg_name": "Яркожълта люспеница",
+"rb_taxon": "Pholiota lucifera"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Phomyoso.html": {
+"rb_bg_name": "Торфена фолиота",
+"rb_taxon": "Pholiota myosotis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Phypelle.html": {
+"rb_bg_name": "Обикновен филопорус",
+"rb_taxon": "Phylloporus pelletieri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pimmajor.html": {
+"rb_bg_name": "Едър анасон",
+"rb_taxon": "Pimpinella major"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pinbruti.html": {
+"rb_bg_name": "Калабрийски бор",
+"rb_taxon": "Pinus brutia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pitcupre.html": {
+"rb_bg_name": "Кипарисова пития",
+"rb_taxon": "Pithya cupressina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Placornu.html": {
+"rb_bg_name": "Рогат живовлек",
+"rb_taxon": "Plantago cornuti"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Platenui.html": {
+"rb_bg_name": "Редкоцветен живовлек",
+"rb_taxon": "Plantago tenuiflora"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Plaundul.html": {
+"rb_bg_name": "Plagiothecium undulatum",
+"rb_taxon": "Plagiothecium undulatum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pleaustr.html": {
+"rb_bg_name": "Австрийски плеуроспермум",
+"rb_taxon": "Pleurospermum austriacum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Plemelae.html": {
+"rb_bg_name": "Чернееща четинковидна плектания",
+"rb_taxon": "Plectania melaena"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Poajorda.html": {
+"rb_bg_name": "Йорданова ливадина",
+"rb_taxon": "Poa jordanovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Poapirin.html": {
+"rb_bg_name": "Пиринска ливадина",
+"rb_taxon": "Poa pirinica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Podtrogi.html": {
+"rb_bg_name": "Подофомес",
+"rb_taxon": "Podofomes trogii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Polalpes.html": {
+"rb_bg_name": "Алпийска телчарка",
+"rb_taxon": "Polygala alpestris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Polamare.html": {
+"rb_bg_name": "Горчива телчарка",
+"rb_taxon": "Polygala amarella"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Polcarni.html": {
+"rb_bg_name": "Карниолска телчарка",
+"rb_taxon": "Polygala carniolica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pollongi.html": {
+"rb_bg_name": "Polytrichum longisetum",
+"rb_taxon": "Polytrichum longisetum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Polrhizo.html": {
+"rb_bg_name": "Коренолюбив полипорус",
+"rb_taxon": "Polyporus rhizophilus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Polsibir.html": {
+"rb_bg_name": "Сибирска телчарка",
+"rb_taxon": "Polygala sibirica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Polumbel.html": {
+"rb_bg_name": "Сенниковиден полипорус",
+"rb_taxon": "Polyporus umbellatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Porpinna.html": {
+"rb_bg_name": "Porella pinnata",
+"rb_taxon": "Porella pinnata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Potemili.html": {
+"rb_bg_name": "Емилипопово прозорче",
+"rb_taxon": "Potentilla emili-popii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Potmonte.html": {
+"rb_bg_name": "Черногорско прозорче",
+"rb_taxon": "Potentilla montenegrina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Potnicic.html": {
+"rb_bg_name": "Ничичово прозорче",
+"rb_taxon": "Potentilla nicicii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Praferul.html": {
+"rb_bg_name": "Ферулов прангос",
+"rb_taxon": "Prangos ferulacea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Prialpin.html": {
+"rb_bg_name": "Алпийско притцелаго",
+"rb_taxon": "Pritzelago alpina subsp. brevicaulis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Prideoru.html": {
+"rb_bg_name": "Рилска иглика",
+"rb_taxon": "Primula deorum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Prifrond.html": {
+"rb_bg_name": "Старопланинска иглика",
+"rb_taxon": "Primula frondosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Psemarsc.html": {
+"rb_bg_name": "Маршалова метличина",
+"rb_taxon": "Psephellus marschallianus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Psetrifa.html": {
+"rb_bg_name": "Pseudocalliergon trifarium",
+"rb_taxon": "Pseudocalliergon trifarium"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Psiuda.html": {
+"rb_bg_name": "Торфено псилоцибе",
+"rb_taxon": "Psilocybe uda"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pticilia.html": {
+"rb_bg_name": "Ptilidium ciliare",
+"rb_taxon": "Ptilidium ciliare"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pticrist.html": {
+"rb_bg_name": "Ptilium crista",
+"rb_taxon": "Ptilium crista-castrensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pulhalle.html": {
+"rb_bg_name": "Халерово котенце",
+"rb_taxon": "Pulsatilla halleri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pulslavi.html": {
+"rb_bg_name": "Славянско котенце",
+"rb_taxon": "Pulsatilla slaviankae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pulverna.html": {
+"rb_bg_name": "Пролетно котенце",
+"rb_taxon": "Pulsatilla vernalis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Pyrdemid.html": {
+"rb_bg_name": "Демидов пирофомес",
+"rb_taxon": "Pyrofomes demidoffii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Quecocci.html": {
+"rb_bg_name": "Пърнар",
+"rb_taxon": "Quercus coccifera"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Quemeste.html": {
+"rb_bg_name": "Местенски дъб",
+"rb_taxon": "Quercus mestensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Quethrac.html": {
+"rb_bg_name": "Тракийски дъб",
+"rb_taxon": "Quercus thracica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ramserbi.html": {
+"rb_bg_name": "Сръбска рамонда",
+"rb_taxon": "Ramonda serbica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ranfonta.html": {
+"rb_bg_name": "Кладенчово лютиче",
+"rb_taxon": "Ranunculus fontanus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ransphae.html": {
+"rb_bg_name": "Кълбосеменно лютиче",
+"rb_taxon": "Ranunculus sphaerospermus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ranstoja.html": {
+"rb_bg_name": "Стояново лютиче",
+"rb_taxon": "Ranunculus stojanovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Reipicro.html": {
+"rb_bg_name": "Горчивчева рейхардия",
+"rb_taxon": "Reichardia picroides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Rhaalpin.html": {
+"rb_bg_name": "Алпийски зърнастец",
+"rb_taxon": "Rhamnus alpinus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Rherhapo.html": {
+"rb_bg_name": "Рилски ревен",
+"rb_taxon": "Rheum rhaponticum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Rhijavor.html": {
+"rb_bg_name": "Яворкова клопачка",
+"rb_taxon": "Rhinanthus javorkae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Rhomyrti.html": {
+"rb_bg_name": "Миртолистен рододендрон",
+"rb_taxon": "Rhododendron myrtifolium"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Rhorosea.html": {
+"rb_bg_name": "Златовръх",
+"rb_taxon": "Rhodiola rosea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ribnigru.html": {
+"rb_bg_name": "Черно френско грозде",
+"rb_taxon": "Ribes nigrum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Riccrust.html": {
+"rb_bg_name": "Riccia crustata",
+"rb_taxon": "Riccia crustata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Riccryst.html": {
+"rb_bg_name": "Riccia crystallina",
+"rb_taxon": "Riccia crystallina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ricglauc.html": {
+"rb_bg_name": "Riccia glauca",
+"rb_taxon": "Riccia glauca"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ricpapil.html": {
+"rb_bg_name": "Riccia papillosa",
+"rb_taxon": "Riccia papillosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Roehybri.html": {
+"rb_bg_name": "Рьомерия",
+"rb_taxon": "Roemeria hybrida"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Rozcaper.html": {
+"rb_bg_name": "Обикновена скрежовка",
+"rb_taxon": "Rozites caperatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Rubrubin.html": {
+"rb_bg_name": "Рубинена манатарка",
+"rb_taxon": "Rubinoboletus rubinus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Rusameth.html": {
+"rb_bg_name": "Аметистова гълъбка",
+"rb_taxon": "Russula amethystina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Russolar.html": {
+"rb_bg_name": "Слънчева гълъбка",
+"rb_taxon": "Russula solaris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Rusvisci.html": {
+"rb_bg_name": "Лепкава гълъбка",
+"rb_taxon": "Russula viscida"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Rutcalop.html": {
+"rb_bg_name": "Бледоохрена рутщрьомия",
+"rb_taxon": "Rutstroemia calopus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Rutgrave.html": {
+"rb_bg_name": "Седефче",
+"rb_taxon": "Ruta graveolens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sacbecki.html": {
+"rb_bg_name": "Черноточковиден сакоболус",
+"rb_taxon": "Saccobolus beckii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Salpenta.html": {
+"rb_bg_name": "Петтичинкова върба",
+"rb_taxon": "Salix pentandra"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Salpinna.html": {
+"rb_bg_name": "Переста какула",
+"rb_taxon": "Salvia pinnata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Salretus.html": {
+"rb_bg_name": "Врязанолистна върба",
+"rb_taxon": "Salix retusa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Salrosma.html": {
+"rb_bg_name": "Розмаринолистна върба",
+"rb_taxon": "Salix rosmarinifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Salscabi.html": {
+"rb_bg_name": "Кримска какула",
+"rb_taxon": "Salvia scabiosifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Salxanth.html": {
+"rb_bg_name": "Ксантийска върба",
+"rb_taxon": "Salix xanthicola"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Samdebor.html": {
+"rb_bg_name": "Дебърски бъз",
+"rb_taxon": "Sambucus deborensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sapstran.html": {
+"rb_bg_name": "Странджанско сапунче",
+"rb_taxon": "Saponaria stranjensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sarcoron.html": {
+"rb_bg_name": "Виолетова звезданка",
+"rb_taxon": "Sarcosphaera coronaria"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sarleuco.html": {
+"rb_bg_name": "Горчива рогачка",
+"rb_taxon": "Sarcodon leucopus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Saudisco.html": {
+"rb_bg_name": "Двуцветна саусурея",
+"rb_taxon": "Saussurea discolor"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Saxaizoi.html": {
+"rb_bg_name": "Жълта каменоломка",
+"rb_taxon": "Saxifraga aizoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Saxmolli.html": {
+"rb_bg_name": "Азиатска каменоломка",
+"rb_taxon": "Saxifraga mollis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Saxsprun.html": {
+"rb_bg_name": "Шпрунерова каменоломка",
+"rb_taxon": "Saxifraga spruneri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Scaapicu.html": {
+"rb_bg_name": "Scapania apiculata",
+"rb_taxon": "Scapania apiculata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Scaatrop.html": {
+"rb_bg_name": "Тъмнолилава самогризка",
+"rb_taxon": "Scabiosa atropurpurea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Scacompa.html": {
+"rb_bg_name": "Scapania compacta",
+"rb_taxon": "Scapania compacta"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Scascand.html": {
+"rb_bg_name": "Scapania scandica",
+"rb_taxon": "Scapania scandica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Scaverru.html": {
+"rb_bg_name": "Scapania verrucosa",
+"rb_taxon": "Scapania verrucosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Schdoerf.html": {
+"rb_bg_name": "Шиверекия",
+"rb_taxon": "Schivereckia doerfleri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Scibithy.html": {
+"rb_bg_name": "Битински синчец",
+"rb_taxon": "Scilla bithynica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Scltoure.html": {
+"rb_bg_name": "Scleropodium touretii",
+"rb_taxon": "Scleropodium touretii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Scocirci.html": {
+"rb_bg_name": "Scorpiurium circinatum",
+"rb_taxon": "Scorpiurium circinatum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Scoparvi.html": {
+"rb_bg_name": "Дребноцветен кокеш",
+"rb_taxon": "Scorzonera parviflora"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Scorevol.html": {
+"rb_bg_name": "Scorpidium revolvens",
+"rb_taxon": "Scorpidium revolvens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Scoscorp.html": {
+"rb_bg_name": "Scorpidium scorpioides",
+"rb_taxon": "Scorpidium scorpioides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Scosubvi.html": {
+"rb_bg_name": "Влакнест скорпиурус",
+"rb_taxon": "Scorpiurus subvillosus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Secrhodo.html": {
+"rb_bg_name": "Родопска ръж",
+"rb_taxon": "Secale rhodopaeum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sedkosto.html": {
+"rb_bg_name": "Костова тлъстига",
+"rb_taxon": "Sedum kostovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sedmagel.html": {
+"rb_bg_name": "Магеленска тлъстига",
+"rb_taxon": "Sedum magellense"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sedstefc.html": {
+"rb_bg_name": "Стефчова тлъстига",
+"rb_taxon": "Sedum stefco"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sedzolli.html": {
+"rb_bg_name": "Цоликоферова тлъстига",
+"rb_taxon": "Sedum zollicoferi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Senpalud.html": {
+"rb_bg_name": "Блатен спореж",
+"rb_taxon": "Senecio paludosus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sensubal.html": {
+"rb_bg_name": "Субалпийски спореж",
+"rb_taxon": "Senecio subalpinus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Serbulga.html": {
+"rb_bg_name": "Български сърпец",
+"rb_taxon": "Serratula bulgarica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Servomer.html": {
+"rb_bg_name": "Палешников серапиас",
+"rb_taxon": "Serapias vomeracea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sesbulga.html": {
+"rb_bg_name": "Български скален копър",
+"rb_taxon": "Seseli bulgaricum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sesdegen.html": {
+"rb_bg_name": "Дегенов скален копър",
+"rb_taxon": "Seseli degenii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sibprocu.html": {
+"rb_bg_name": "Разпростряна сибалдия",
+"rb_taxon": "Sibbaldia procumbens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sidlanat.html": {
+"rb_bg_name": "Вълнест миризлив бурен",
+"rb_taxon": "Sideritis lanata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sidscard.html": {
+"rb_bg_name": "Пирински чай",
+"rb_taxon": "Sideritis scardica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sidsyria.html": {
+"rb_bg_name": "Сирийски миризлив бурен",
+"rb_taxon": "Sideritis syriaca"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Silcalia.html": {
+"rb_bg_name": "Калиакренско плюскавиче",
+"rb_taxon": "Silene caliacrae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Silchlor.html": {
+"rb_bg_name": "Зеленикаво плюскавиче",
+"rb_taxon": "Silene chlorantha"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sileuxin.html": {
+"rb_bg_name": "Черноморско плюскавиче",
+"rb_taxon": "Silene euxina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Silgraec.html": {
+"rb_bg_name": "Гръцко плюскавиче",
+"rb_taxon": "Silene graeca"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sillydia.html": {
+"rb_bg_name": "Лидиево плюскавиче",
+"rb_taxon": "Silene lydia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Silthymi.html": {
+"rb_bg_name": "Мащерколистно плюскавиче",
+"rb_taxon": "Silene thymifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Silvelce.html": {
+"rb_bg_name": "Велчево плюскавиче",
+"rb_taxon": "Silene velcevii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Silvulga.html": {
+"rb_bg_name": "Алпийско плюскавиче",
+"rb_taxon": "Silene vulgaris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sispolym.html": {
+"rb_bg_name": "Изменчива мъдрица",
+"rb_taxon": "Sisymbrium polymorphum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sonpalus.html": {
+"rb_bg_name": "Блатен кострец",
+"rb_taxon": "Sonchus palustris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Spacrisp.html": {
+"rb_bg_name": "Зелчеста гъба",
+"rb_taxon": "Sparassis crispa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Spaminim.html": {
+"rb_bg_name": "Малка ежова главица",
+"rb_taxon": "Sparganium minimum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sphcuspi.html": {
+"rb_bg_name": "Sphagnum cuspidatum",
+"rb_taxon": "Sphagnum cuspidatum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sphripar.html": {
+"rb_bg_name": "Sphagnum riparium",
+"rb_taxon": "Sphagnum riparium"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sphsubfu.html": {
+"rb_bg_name": "Sphagnum subfulvum",
+"rb_taxon": "Sphagnum subfulvum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sphsubni.html": {
+"rb_bg_name": "Sphagnum subnitens",
+"rb_taxon": "Sphagnum subnitens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Spicrena.html": {
+"rb_bg_name": "Нарязанолистен тъжник",
+"rb_taxon": "Spiraea crenata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Spisalic.html": {
+"rb_bg_name": "Върболистен тъжник",
+"rb_taxon": "Spiraea salicifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Staleuco.html": {
+"rb_bg_name": "Белоезичест чистец",
+"rb_taxon": "Stachys leucoglossa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Stamarit.html": {
+"rb_bg_name": "Крайморски ранилист",
+"rb_taxon": "Stachys maritima"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Stamilan.html": {
+"rb_bg_name": "Миланов чистец",
+"rb_taxon": "Stachys milanii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Staserbi.html": {
+"rb_bg_name": "Сръбски ранилист",
+"rb_taxon": "Stachys serbica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Stilessi.html": {
+"rb_bg_name": "Добруджанско коило",
+"rb_taxon": "Stipa lessingiana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Stiucrai.html": {
+"rb_bg_name": "Украинско коило",
+"rb_taxon": "Stipa ucrainica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Straloid.html": {
+"rb_bg_name": "Алоевиден стратиотес",
+"rb_taxon": "Stratiotes aloides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Strample.html": {
+"rb_bg_name": "Стъблообхващащ стрептопус",
+"rb_taxon": "Streptopus amplexifolius"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Suaheter.html": {
+"rb_bg_name": "Разнолистна суеда",
+"rb_taxon": "Suaeda heterophylla"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Suisibir.html": {
+"rb_bg_name": "Сибирска масловка",
+"rb_taxon": "Suillus sibiricus subsp. helveticus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Sweperen.html": {
+"rb_bg_name": "Многогодишна сверция",
+"rb_taxon": "Swertia perennis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Swepunct.html": {
+"rb_bg_name": "Петниста сверция",
+"rb_taxon": "Swertia punctata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Symtauri.html": {
+"rb_bg_name": "Кримско зарасличе",
+"rb_taxon": "Symphytum tauricum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Synlaevi.html": {
+"rb_bg_name": "Syntrichia laevipila",
+"rb_taxon": "Syntrichia laevipila"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Synlatif.html": {
+"rb_bg_name": "Syntrichia latifolia",
+"rb_taxon": "Syntrichia latifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Synpagor.html": {
+"rb_bg_name": "Syntrichia pagorum",
+"rb_taxon": "Syntrichia pagorum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Synpapil.html": {
+"rb_bg_name": "Syntrichia papillosa",
+"rb_taxon": "Syntrichia papillosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tarbessa.html": {
+"rb_bg_name": "Бесарабско глухарче",
+"rb_taxon": "Taraxacum bessarabicum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tarbithy.html": {
+"rb_bg_name": "Битинско глухарче",
+"rb_taxon": "Taraxacum bithynicum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Taxbacca.html": {
+"rb_bg_name": "Обикновен тис",
+"rb_taxon": "Taxus baccata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Taysplac.html": {
+"rb_bg_name": "Tayloria splachnoides",
+"rb_taxon": "Tayloria splachnoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Thafoeti.html": {
+"rb_bg_name": "Вонящо обичниче",
+"rb_taxon": "Thalictrum foetidum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Thlbelli.html": {
+"rb_bg_name": "Красиволистна попова лъжичка",
+"rb_taxon": "Thlaspi bellidifolium"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Thohispi.html": {
+"rb_bg_name": "Thorea hispida",
+"rb_taxon": "Thorea hispida"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Thybulga.html": {
+"rb_bg_name": "Българска тимелея",
+"rb_taxon": "Thymelaea bulgarica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Thyperin.html": {
+"rb_bg_name": "Пиринска мащерка",
+"rb_taxon": "Thymus perinicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Thystoja.html": {
+"rb_bg_name": "Стоянова мащерка",
+"rb_taxon": "Thymus stojanovii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Timnorve.html": {
+"rb_bg_name": "Timmia norvegica",
+"rb_taxon": "Timmia norvegica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tolintri.html": {
+"rb_bg_name": "Tolypella intricata",
+"rb_taxon": "Tolypella intricata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tomniten.html": {
+"rb_bg_name": "Tomentypnum nitens",
+"rb_taxon": "Tomentypnum nitens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Torcanes.html": {
+"rb_bg_name": "Tortula canescens",
+"rb_taxon": "Tortula canescens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Torcunei.html": {
+"rb_bg_name": "Tortula cuneifolia",
+"rb_taxon": "Tortula cuneifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Torhumil.html": {
+"rb_bg_name": "Tortella humilis",
+"rb_taxon": "Tortella humilis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tornitid.html": {
+"rb_bg_name": "Tortella nitida",
+"rb_taxon": "Tortella nitida"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Torproto.html": {
+"rb_bg_name": "Tortula protobryoides",
+"rb_taxon": "Tortula protobryoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tozalpin.html": {
+"rb_bg_name": "Карпатска тоция",
+"rb_taxon": "Tozzia alpina subsp. carpathica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Traflocc.html": {
+"rb_bg_name": "Вълнеста козя брада",
+"rb_taxon": "Tragopogon floccosus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Traglobo.html": {
+"rb_bg_name": "Траунстейнера",
+"rb_taxon": "Traunsteinera globosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tranatan.html": {
+"rb_bg_name": "Воден орех",
+"rb_taxon": "Trapa natans"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Trarumel.html": {
+"rb_bg_name": "Румелийски тръбоцвет",
+"rb_taxon": "Trachelium rumelianum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Trastrib.html": {
+"rb_bg_name": "Стрибърниева козя брада",
+"rb_taxon": "Tragopogon stribrnyi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Travenet.html": {
+"rb_bg_name": "Синя тойна",
+"rb_taxon": "Trachomitum venetum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Treambig.html": {
+"rb_bg_name": "Trematodon ambiguus",
+"rb_taxon": "Trematodon ambiguus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Trehelve.html": {
+"rb_bg_name": "Обикновен тремискус",
+"rb_taxon": "Tremiscus helvelloides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Triacerb.html": {
+"rb_bg_name": "Горчива есенна гъба",
+"rb_taxon": "Tricholoma acerbum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tribrach.html": {
+"rb_bg_name": "Trichostomum brachydontium",
+"rb_taxon": "Trichostomum brachydontium"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tricolos.html": {
+"rb_bg_name": "Голяма есенна гъба",
+"rb_taxon": "Tricholoma colossus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Trifocal.html": {
+"rb_bg_name": "Опасана есенна гъба",
+"rb_taxon": "Tricholoma focale"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Triglobo.html": {
+"rb_bg_name": "Кълбеста детелина",
+"rb_taxon": "Trifolium globosum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Trihirsu.html": {
+"rb_bg_name": "Четинест трихоглосум",
+"rb_taxon": "Trichoglossum hirsutum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Triligus.html": {
+"rb_bg_name": "Странджанска детелина",
+"rb_taxon": "Trifolium ligusticum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Trimarit.html": {
+"rb_bg_name": "Приморски триостренник",
+"rb_taxon": "Triglochin maritima"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Triphleo.html": {
+"rb_bg_name": "Тимотейкова детелина",
+"rb_taxon": "Trifolium phleoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Triphyso.html": {
+"rb_bg_name": "Мехуреста детелина",
+"rb_taxon": "Trifolium physodes"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Triruben.html": {
+"rb_bg_name": "Рубинова детелина",
+"rb_taxon": "Trifolium rubens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Trispumo.html": {
+"rb_bg_name": "Кавказка детелина",
+"rb_taxon": "Trifolium spumosum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Trisquam.html": {
+"rb_bg_name": "Късозъба детелина",
+"rb_taxon": "Trifolium squamosum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Trisquar.html": {
+"rb_bg_name": "Разперенозъба детелина",
+"rb_taxon": "Trifolium squarrosum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tritomen.html": {
+"rb_bg_name": "Trichocolea tomentella",
+"rb_taxon": "Trichocolea tomentella"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tubaesti.html": {
+"rb_bg_name": "Летен трюфел",
+"rb_taxon": "Tuber aestivum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tubpuber.html": {
+"rb_bg_name": "Късовлакнест трюфел",
+"rb_taxon": "Tuber puberulum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tulaureo.html": {
+"rb_bg_name": "Златисто лале",
+"rb_taxon": "Tulipa aureolina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tulpirin.html": {
+"rb_bg_name": "Пиринско лале",
+"rb_taxon": "Tulipa pirinica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tulrhodo.html": {
+"rb_bg_name": "Родопско лале",
+"rb_taxon": "Tulipa rhodopea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tulsplen.html": {
+"rb_bg_name": "Блестящо лале",
+"rb_taxon": "Tulipa splendens"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tulthrac.html": {
+"rb_bg_name": "Тракийско лале",
+"rb_taxon": "Tulipa thracica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tulurumo.html": {
+"rb_bg_name": "Урумово лале",
+"rb_taxon": "Tulipa urumoffii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Tulvolvu.html": {
+"rb_bg_name": "Калъфкостъблена тулостома",
+"rb_taxon": "Tulostoma volvulatum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Turfoeni.html": {
+"rb_bg_name": "Копъровиден тургениопсис",
+"rb_taxon": "Turgeniopsis foeniculacea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ulocrisp.html": {
+"rb_bg_name": "Ulota crispa",
+"rb_taxon": "Ulota crispa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Ulohutch.html": {
+"rb_bg_name": "Ulota hutchinsiae",
+"rb_taxon": "Ulota hutchinsiae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Uropicro.html": {
+"rb_bg_name": "Уроспермум",
+"rb_taxon": "Urospermum picroides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Utraustr.html": {
+"rb_bg_name": "Южна мехурка",
+"rb_taxon": "Utricularia australis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Utrminor.html": {
+"rb_bg_name": "Дребна мехурка",
+"rb_taxon": "Utricularia minor"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Vacarcto.html": {
+"rb_bg_name": "Странджанска боровинка",
+"rb_taxon": "Vaccinium arctostaphylos"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Valdiosc.html": {
+"rb_bg_name": "Дисковидна дилянка",
+"rb_taxon": "Valeriana dioscoridis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Valmonta.html": {
+"rb_bg_name": "Планинска дилянка",
+"rb_taxon": "Valeriana montana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Valsimpl.html": {
+"rb_bg_name": "Целолистна дилянка",
+"rb_taxon": "Valeriana simplicifolia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Veradria.html": {
+"rb_bg_name": "Одрински лопен",
+"rb_taxon": "Verbascum adrianopolitanum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Veraniso.html": {
+"rb_bg_name": "Анасонов лопен",
+"rb_taxon": "Verbascum anisophyllum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verbaumg.html": {
+"rb_bg_name": "Баумгартеново великденче",
+"rb_taxon": "Veronica baumgartenii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verbugul.html": {
+"rb_bg_name": "Винчелистен лопен",
+"rb_taxon": "Verbascum bugulifolium"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verconic.html": {
+"rb_bg_name": "Конусовидна верпа",
+"rb_taxon": "Verpa conica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verdavid.html": {
+"rb_bg_name": "Давидов лопен",
+"rb_taxon": "Verbascum davidoffii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verdecor.html": {
+"rb_bg_name": "Декоративен лопен",
+"rb_taxon": "Verbascum decorum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verdieck.html": {
+"rb_bg_name": "Диекианов лопен",
+"rb_taxon": "Verbascum dieckianum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Vereuxin.html": {
+"rb_bg_name": "Черноморско великденче",
+"rb_taxon": "Veronica euxina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verglauc.html": {
+"rb_bg_name": "Сиво великденче",
+"rb_taxon": "Veronica glauca"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Vergrise.html": {
+"rb_bg_name": "Гризебахово великденче",
+"rb_taxon": "Veronica grisebachii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verjanka.html": {
+"rb_bg_name": "Янкиев лопен",
+"rb_taxon": "Verbascum jankaeanum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verjuruk.html": {
+"rb_bg_name": "Юрушки лопен",
+"rb_taxon": "Verbascum juruk"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verlagur.html": {
+"rb_bg_name": "Лагуров лопен",
+"rb_taxon": "Verbascum lagurus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verminut.html": {
+"rb_bg_name": "Дребноцветен лопен",
+"rb_taxon": "Verbascum minutiflorum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Vermulti.html": {
+"rb_bg_name": "Наделенолистно великденче",
+"rb_taxon": "Veronica multifida"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verpseud.html": {
+"rb_bg_name": "Лъжеблагороден лопен",
+"rb_taxon": "Verbascum pseudonobile"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verpurpu.html": {
+"rb_bg_name": "Жлезист лопен",
+"rb_taxon": "Verbascum purpureum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verrupes.html": {
+"rb_bg_name": "Скален лопен",
+"rb_taxon": "Verbascum rupestre"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verspath.html": {
+"rb_bg_name": "Родопски лопен",
+"rb_taxon": "Verbascum spathulisepalum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verturri.html": {
+"rb_bg_name": "Търилово великденче",
+"rb_taxon": "Veronica turrilliana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Vertzar.html": {
+"rb_bg_name": "Цар-Борисов лопен",
+"rb_taxon": "Verbascum tzar-borisii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Verurumo.html": {
+"rb_bg_name": "Урумов лопен",
+"rb_taxon": "Verbascum urumoffii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Vicamphi.html": {
+"rb_bg_name": "Подземноплодов уров",
+"rb_taxon": "Vicia amphicarpa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Vicincis.html": {
+"rb_bg_name": "Изрязанолистна глушина",
+"rb_taxon": "Vicia incisa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Viocrini.html": {
+"rb_bg_name": "Дьлговлакнеста теменуга",
+"rb_taxon": "Viola crinita"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Viodelph.html": {
+"rb_bg_name": "Дългошпореста теменуга",
+"rb_taxon": "Viola delphinantha"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Viograci.html": {
+"rb_bg_name": "Стройна теменуга",
+"rb_taxon": "Viola gracilis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Viogrise.html": {
+"rb_bg_name": "Гризебахова теменуга",
+"rb_taxon": "Viola grisebachiana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Vioorbel.html": {
+"rb_bg_name": "Рилска теменуга",
+"rb_taxon": "Viola orbelica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Viopalus.html": {
+"rb_bg_name": "Блатна теменуга",
+"rb_taxon": "Viola palustris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Vioparvu.html": {
+"rb_bg_name": "Дребна теменуга",
+"rb_taxon": "Viola parvula"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Vioperin.html": {
+"rb_bg_name": "Пиринска теменуга",
+"rb_taxon": "Viola perinensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Viopumil.html": {
+"rb_bg_name": "Ниска теменуга",
+"rb_taxon": "Viola pumila"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Viopyren.html": {
+"rb_bg_name": "Пиренейска теменуга",
+"rb_taxon": "Viola pyrenaica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Viospeci.html": {
+"rb_bg_name": "Прекрасна теменуга",
+"rb_taxon": "Viola speciosa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Viostoja.html": {
+"rb_bg_name": "Стоянова теменуга",
+"rb_taxon": "Viola stojanowii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Vulunila.html": {
+"rb_bg_name": "Едностранна вулпия",
+"rb_taxon": "Vulpia unilateralis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol1/Zosmarin.html": {
+"rb_bg_name": "Обикновена морска трева",
+"rb_taxon": "Zostera marina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Acagrico.html": {
+"rb_bg_name": "Индийско шаварче",
+"rb_taxon": "Acrocephalus agricola"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Acbrevip.html": {
+"rb_bg_name": "Късопръст ястреб",
+"rb_taxon": "Accipiter brevipes"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Acgentil.html": {
+"rb_bg_name": "Голям ястреб",
+"rb_taxon": "Accipiter gentilis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Acguelde.html": {
+"rb_bg_name": "Руска есетра",
+"rb_taxon": "Acipenser gueldenstaedti"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Acnisus.html": {
+"rb_bg_name": "Малък ястреб",
+"rb_taxon": "Accipiter nisus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Acnudive.html": {
+"rb_bg_name": "Шип",
+"rb_taxon": "Acipenser nudiventris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Acruthen.html": {
+"rb_bg_name": "Чига",
+"rb_taxon": "Acipenser ruthenus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Acstella.html": {
+"rb_bg_name": "Пъструга",
+"rb_taxon": "Acipenser stellatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Acsturio.html": {
+"rb_bg_name": "Немска есетра",
+"rb_taxon": "Acipenser sturio"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Aefunere.html": {
+"rb_bg_name": "Пернатонога кукумявка",
+"rb_taxon": "Aegolius funereus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Aemonach.html": {
+"rb_bg_name": "Черен лешояд",
+"rb_taxon": "Aegypius monachus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Aesubarc.html": {
+"rb_bg_name": "Субарктично голямо водно конче",
+"rb_taxon": "Aeshna subarctica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Alcaspia.html": {
+"rb_bg_name": "Харип",
+"rb_taxon": "Alosa caspia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Alchukar.html": {
+"rb_bg_name": "Тракийски кеклик",
+"rb_taxon": "Alectoris chukar"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Algraeca.html": {
+"rb_bg_name": "Балкански кеклик",
+"rb_taxon": "Alectoris graeca"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Almaeoti.html": {
+"rb_bg_name": "Блеч",
+"rb_taxon": "Alosa maeotica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Alpontic.html": {
+"rb_bg_name": "Карагьоз",
+"rb_taxon": "Alosa pontica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Amfragil.html": {
+"rb_bg_name": "Крехка еднодневка",
+"rb_taxon": "Ametropus fragilis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Aminopin.html": {
+"rb_bg_name": "Реликтна еднодневка",
+"rb_taxon": "Ameletus inopinatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Ananguil.html": {
+"rb_bg_name": "Речна змиорка",
+"rb_taxon": "Anguilla anguilla"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Ananser.html": {
+"rb_bg_name": "Сива гъска",
+"rb_taxon": "Anser anser"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Anerythr.html": {
+"rb_bg_name": "Малка белочела гъска",
+"rb_taxon": "Anser erythropus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Anquerqu.html": {
+"rb_bg_name": "Лятно бърне",
+"rb_taxon": "Anas querquedula"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Anstrepe.html": {
+"rb_bg_name": "Сива патица",
+"rb_taxon": "Anas strepera"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Anvirgo.html": {
+"rb_bg_name": "Момин жерав",
+"rb_taxon": "Anthropoides virgo"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Aqchrysa.html": {
+"rb_bg_name": "Скален орел",
+"rb_taxon": "Aquila chrysaetos"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Aqclanga.html": {
+"rb_bg_name": "Голям креслив орел",
+"rb_taxon": "Aquila clanga"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Aqheliac.html": {
+"rb_bg_name": "Кръстат орел",
+"rb_taxon": "Aquila heliaca"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Aqnipale.html": {
+"rb_bg_name": "Степен орел",
+"rb_taxon": "Aquila nipalensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Aqpomari.html": {
+"rb_bg_name": "Малък креслив орел",
+"rb_taxon": "Aquila pomarina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Araquati.html": {
+"rb_bg_name": "Воден паяк",
+"rb_taxon": "Argyroneta aquatica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Arcinere.html": {
+"rb_bg_name": "Сива чапла",
+"rb_taxon": "Ardea cinerea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Arpurpur.html": {
+"rb_bg_name": "Червена чапла",
+"rb_taxon": "Ardea purpurea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Arralloi.html": {
+"rb_bg_name": "Гривеста чапла",
+"rb_taxon": "Ardeola ralloides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Asaspius.html": {
+"rb_bg_name": "Распер",
+"rb_taxon": "Aspius aspius"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Ayferina.html": {
+"rb_bg_name": "Кафявоглава потапница",
+"rb_taxon": "Aythya ferina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Aynyroca.html": {
+"rb_bg_name": "Белоока потапница",
+"rb_taxon": "Aythya nyroca"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Babarbas.html": {
+"rb_bg_name": "Широкоух прилеп",
+"rb_taxon": "Barbastella barbastellus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Babarbat.html": {
+"rb_bg_name": "Гулеш",
+"rb_taxon": "Barbatula barbatula"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Babarbus.html": {
+"rb_bg_name": "Обикновена мряна",
+"rb_taxon": "Barbus barbus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Baburesc.html": {
+"rb_bg_name": "Струмски гулеш",
+"rb_taxon": "Barbatula bureschi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Barhodop.html": {
+"rb_bg_name": "Родопски балканопеталум",
+"rb_taxon": "Balkanopetalum rhodopinum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Batauric.html": {
+"rb_bg_name": "Приморска мряна",
+"rb_taxon": "Barbus tauricus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Bebraune.html": {
+"rb_bg_name": "Шабленско попче",
+"rb_taxon": "Benthophiloides brauneri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Bestella.html": {
+"rb_bg_name": "Звездовидно попче",
+"rb_taxon": "Benthophilus stellatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Biitalic.html": {
+"rb_bg_name": "Италианска висяща муха",
+"rb_taxon": "Bittacus italicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Bostella.html": {
+"rb_bg_name": "Голям воден бик",
+"rb_taxon": "Botaurus stellaris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Brharris.html": {
+"rb_bg_name": "Харисова еднодневка",
+"rb_taxon": "Brachycercus harrisella"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Brrufico.html": {
+"rb_bg_name": "Червеногуша гъска",
+"rb_taxon": "Branta ruficollis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Bububo.html": {
+"rb_bg_name": "Бухал",
+"rb_taxon": "Bubo bubo"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Buoedicn.html": {
+"rb_bg_name": "Турилик",
+"rb_taxon": "Burhinus oedicnemus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Burufinu.html": {
+"rb_bg_name": "Белоопашат мишелов",
+"rb_taxon": "Buteo rufinus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Byfossor.html": {
+"rb_bg_name": "Ровещ бирсинус",
+"rb_taxon": "Byrsinus fossor"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cabrachy.html": {
+"rb_bg_name": "Късопръста чучулига",
+"rb_taxon": "Calandrella brachydactyla"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cacarass.html": {
+"rb_bg_name": "Златиста каракуда",
+"rb_taxon": "Carassius carassius"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Calupus.html": {
+"rb_bg_name": "Вълк",
+"rb_taxon": "Canis lupus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Camacrog.html": {
+"rb_bg_name": "Пъстър жътвар",
+"rb_taxon": "Callimenus macrogaster"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Caspinus.html": {
+"rb_bg_name": "Елшова скатия",
+"rb_taxon": "Carduelis spinus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cavariol.html": {
+"rb_bg_name": "Грапав бегач",
+"rb_taxon": "Carabus variolosus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cecetti.html": {
+"rb_bg_name": "Свилено шаварче",
+"rb_taxon": "Cettia cetti"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Ceminutu.html": {
+"rb_bg_name": "Малка еднодневка",
+"rb_taxon": "Cercobrachys minutus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Chalexan.html": {
+"rb_bg_name": "Морски дъждосвирец",
+"rb_taxon": "Charadrius alexandrinus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Chchalco.html": {
+"rb_bg_name": "Брияна",
+"rb_taxon": "Chalcalburnus chalcoides"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Chdubius.html": {
+"rb_bg_name": "Речен дъждосвирец",
+"rb_taxon": "Charadrius dubius"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Chhybrid.html": {
+"rb_bg_name": "Белобуза рибарка",
+"rb_taxon": "Chlidonias hybridus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Chniger.html": {
+"rb_bg_name": "Черна рибарка",
+"rb_taxon": "Chlidonias niger"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Ciaerugi.html": {
+"rb_bg_name": "Тръстиков блатар",
+"rb_taxon": "Circus aeruginosus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Ciciconi.html": {
+"rb_bg_name": "Бял щъркел",
+"rb_taxon": "Ciconia ciconia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cicyaneu.html": {
+"rb_bg_name": "Полски блатар",
+"rb_taxon": "Circus cyaneus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cigallic.html": {
+"rb_bg_name": "Орел змияр",
+"rb_taxon": "Circaetus gallicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cimacrou.html": {
+"rb_bg_name": "Степен блатар",
+"rb_taxon": "Circus macrourus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cinigra.html": {
+"rb_bg_name": "Черен щъркел",
+"rb_taxon": "Ciconia nigra"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cipygarg.html": {
+"rb_bg_name": "Ливаден блатар",
+"rb_taxon": "Circus pygargus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Clcultri.html": {
+"rb_bg_name": "Езерна цаца",
+"rb_taxon": "Clupeonella cultriventris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Clglanda.html": {
+"rb_bg_name": "Качулата кукувица",
+"rb_taxon": "Clamator glandarius"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cogarrul.html": {
+"rb_bg_name": "Синявица",
+"rb_taxon": "Coracias garrulus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cogobio.html": {
+"rb_bg_name": "Главоч",
+"rb_taxon": "Cottus gobio"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Coinsign.html": {
+"rb_bg_name": "Малко ивичесто водно конче",
+"rb_taxon": "Cordulegaster insignis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Colivia.html": {
+"rb_bg_name": "Скален гълъб",
+"rb_taxon": "Columba livia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cooedipp.html": {
+"rb_bg_name": "Блатно сатирче",
+"rb_taxon": "Coenonympha oedippus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cooenas.html": {
+"rb_bg_name": "Гълъб хралупар",
+"rb_taxon": "Columba oenas"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Crcrex.html": {
+"rb_bg_name": "Ливаден дърдавец",
+"rb_taxon": "Crex crex"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Crcricet.html": {
+"rb_bg_name": "Обикновен хомяк",
+"rb_taxon": "Cricetus cricetus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Crmigrat.html": {
+"rb_bg_name": "Сиво хомяче",
+"rb_taxon": "Cricetulus migratorius"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cycarpio.html": {
+"rb_bg_name": "Див шаран",
+"rb_taxon": "Cyprinus carpio"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cycolumb.html": {
+"rb_bg_name": "Малък лебед",
+"rb_taxon": "Cygnus columbianus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cycygnus.html": {
+"rb_bg_name": "Поен лебед",
+"rb_taxon": "Cygnus cygnus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Cyolor.html": {
+"rb_bg_name": "Ням лебед",
+"rb_taxon": "Cygnus olor"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Deleucot.html": {
+"rb_bg_name": "Южен белогръб кълвач",
+"rb_taxon": "Dendrocopos leucotos"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Doplanta.html": {
+"rb_bg_name": "Паяк рибар",
+"rb_taxon": "Dolomedes plantarius"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Drmartiu.html": {
+"rb_bg_name": "Черен кълвач",
+"rb_taxon": "Dryocopus martius"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Egalba.html": {
+"rb_bg_name": "Голяма бяла чапла",
+"rb_taxon": "Egretta alba"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Eggarzet.html": {
+"rb_bg_name": "Малка бяла чапла",
+"rb_taxon": "Egretta garzetta"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Elquatuo.html": {
+"rb_bg_name": "Ивичест смок",
+"rb_taxon": "Elaphe quatuorlineata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Elsaurom.html": {
+"rb_bg_name": "Пъстър смок",
+"rb_taxon": "Elaphe sauromates"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Epvirgo.html": {
+"rb_bg_name": "Ефорон",
+"rb_taxon": "Ephoron virgo"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Eralpest.html": {
+"rb_bg_name": "Балканска чучулига",
+"rb_taxon": "Eremophila alpestris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Erjaculu.html": {
+"rb_bg_name": "Турска боа",
+"rb_taxon": "Eryx jaculus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Euandree.html": {
+"rb_bg_name": "Андреев еуполиботрус",
+"rb_taxon": "Eupolybothrus andreevi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Eumariae.html": {
+"rb_bg_name": "Украинска минога",
+"rb_taxon": "Eudontomyzon mariae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Fabiarmi.html": {
+"rb_bg_name": "Далматински сокол",
+"rb_taxon": "Falco biarmicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Facherru.html": {
+"rb_bg_name": "Ловен сокол",
+"rb_taxon": "Falco cherrug"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Faeleono.html": {
+"rb_bg_name": "Средиземноморски сокол",
+"rb_taxon": "Falco eleonorae"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Fanauman.html": {
+"rb_bg_name": "Белошипа ветрушка",
+"rb_taxon": "Falco naumanni"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Faperegr.html": {
+"rb_bg_name": "Сокол скитник",
+"rb_taxon": "Falco peregrinus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Fasubbut.html": {
+"rb_bg_name": "Сокол орко",
+"rb_taxon": "Falco subbuteo"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Favesper.html": {
+"rb_bg_name": "Вечерна ветрушка",
+"rb_taxon": "Falco vespertinus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Fesilves.html": {
+"rb_bg_name": "Дива котка",
+"rb_taxon": "Felis silvestris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Fialbico.html": {
+"rb_bg_name": "Беловрата мухоловка",
+"rb_taxon": "Ficedula albicollis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Fiparva.html": {
+"rb_bg_name": "Червеногуша мухоловка",
+"rb_taxon": "Ficedula parva"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Fisemito.html": {
+"rb_bg_name": "Полубеловрата мухоловка",
+"rb_taxon": "Ficedula semitorquata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Gaaculea.html": {
+"rb_bg_name": "Триигла бодливка",
+"rb_taxon": "Gasterosteus aculeatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Gagallin.html": {
+"rb_bg_name": "Средна бекасина",
+"rb_taxon": "Gallinago gallinago"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Glnordma.html": {
+"rb_bg_name": "Чернокрил огърличник",
+"rb_taxon": "Glareola nordmanni"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Glpasser.html": {
+"rb_bg_name": "Врабчова кукумявка",
+"rb_taxon": "Glaucidium passerinum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Glpratin.html": {
+"rb_bg_name": "Кафявокрил огърличник",
+"rb_taxon": "Glareola pratincola"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Grgrus.html": {
+"rb_bg_name": "Сив жерав",
+"rb_taxon": "Grus grus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Gybaloni.html": {
+"rb_bg_name": "Високотел бибан",
+"rb_taxon": "Gymnocephalus baloni"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Gybarbat.html": {
+"rb_bg_name": "Брадат лешояд",
+"rb_taxon": "Gypaetus barbatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Gyfulvus.html": {
+"rb_bg_name": "Белоглав лешояд",
+"rb_taxon": "Gyps fulvus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Gyschrae.html": {
+"rb_bg_name": "Ивичест бибан",
+"rb_taxon": "Gymnocephalus schraetser"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Haalbici.html": {
+"rb_bg_name": "Морски орел",
+"rb_taxon": "Haliaeetus albicilla"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Halucidu.html": {
+"rb_bg_name": "Хауфения",
+"rb_taxon": "Hauffenia lucidula"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Haostral.html": {
+"rb_bg_name": "Стридояд",
+"rb_taxon": "Haematopus ostralegus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Hifascia.html": {
+"rb_bg_name": "Ястребов орел",
+"rb_taxon": "Hieraaetus fasciatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Hihimant.html": {
+"rb_bg_name": "Кокилобегач",
+"rb_taxon": "Himantopus himantopus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Hiicteri.html": {
+"rb_bg_name": "Градински писмехулник",
+"rb_taxon": "Hippolais icterina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Hiolivet.html": {
+"rb_bg_name": "Голям маслинов присмехулник",
+"rb_taxon": "Hippolais olivetorum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Hipennat.html": {
+"rb_bg_name": "Малък орел",
+"rb_taxon": "Hieraaetus pennatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Huhuso.html": {
+"rb_bg_name": "Моруна",
+"rb_taxon": "Huso huso"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Ixminutu.html": {
+"rb_bg_name": "Малък воден бик",
+"rb_taxon": "Ixobrychus minutus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Kafuscog.html": {
+"rb_bg_name": "Тъмносива еднодневка",
+"rb_taxon": "Kageronia fuscogrisea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Knlongec.html": {
+"rb_bg_name": "Дългоопашато попче",
+"rb_taxon": "Knipowitschia longecaudata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Laexcubi.html": {
+"rb_bg_name": "Сива сврачка",
+"rb_taxon": "Lanius excubitor"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Lamelano.html": {
+"rb_bg_name": "Малка черноглава чайка",
+"rb_taxon": "Larus melanocephalus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Lanubicu.html": {
+"rb_bg_name": "Белочела сврачка",
+"rb_taxon": "Lanius nubicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Laridibu.html": {
+"rb_bg_name": "Речна чайка",
+"rb_taxon": "Larus ridibundus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Ledeline.html": {
+"rb_bg_name": "Върловка",
+"rb_taxon": "Leucaspius delineatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Ledubia.html": {
+"rb_bg_name": "Малко мъхово водно конче",
+"rb_taxon": "Leucorrhinia dubia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Lemacros.html": {
+"rb_bg_name": "Тъмно смарагдово водно шило",
+"rb_taxon": "Lestes macrostigma"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Lepector.html": {
+"rb_bg_name": "Голямо мъхово водно конче",
+"rb_taxon": "Leucorrhinia pectoralis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Loachine.html": {
+"rb_bg_name": "Голямоок сатир",
+"rb_taxon": "Lopinga achine"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Lofluvia.html": {
+"rb_bg_name": "Речен цвъркач",
+"rb_taxon": "Locustella fluviatilis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Lolota.html": {
+"rb_bg_name": "Михалца",
+"rb_taxon": "Lota lota"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Lulutra.html": {
+"rb_bg_name": "Видра",
+"rb_taxon": "Lutra lutra"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Lylynx.html": {
+"rb_bg_name": "Рис",
+"rb_taxon": "Lynx lynx"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Mamartes.html": {
+"rb_bg_name": "Златка",
+"rb_taxon": "Martes martes"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Marivula.html": {
+"rb_bg_name": "Южна блатна костенурка",
+"rb_taxon": "Mauremys rivulata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Mazilchi.html": {
+"rb_bg_name": "Цилхова мацедоника",
+"rb_taxon": "Macedonica zilchi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Meberoni.html": {
+"rb_bg_name": "Беронов мегафилум",
+"rb_taxon": "Megaphyllum beroni"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Mecaland.html": {
+"rb_bg_name": "Дебелоклюна чучулига",
+"rb_taxon": "Melanocorypha calandra"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Menewton.html": {
+"rb_bg_name": "Черногръд хомяк",
+"rb_taxon": "Mesocricetus newtoni"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Meparrey.html": {
+"rb_bg_name": "Меланопсис",
+"rb_taxon": "Melanopsis parreyssi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Mifossil.html": {
+"rb_bg_name": "Виюн",
+"rb_taxon": "Misgurnus fossilis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Mimigran.html": {
+"rb_bg_name": "Черна каня",
+"rb_taxon": "Milvus migrans"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Mimilvus.html": {
+"rb_bg_name": "Червена каня",
+"rb_taxon": "Milvus milvus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Mischrei.html": {
+"rb_bg_name": "Пещерен дългокрил",
+"rb_taxon": "Miniopterus schreibersii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Momonach.html": {
+"rb_bg_name": "Тюлен монах",
+"rb_taxon": "Monachus monachus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Mosolita.html": {
+"rb_bg_name": "Син скален дрозд",
+"rb_taxon": "Monticola solitarius"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Mueversm.html": {
+"rb_bg_name": "Степен пор",
+"rb_taxon": "Mustela eversmanni"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Mulutreo.html": {
+"rb_bg_name": "Норка",
+"rb_taxon": "Mustela lutreola"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Mybechst.html": {
+"rb_bg_name": "Бехщайнов нощник",
+"rb_taxon": "Myotis bechsteinii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Mycapacc.html": {
+"rb_bg_name": "Дългопръст нощник",
+"rb_taxon": "Myotis capaccinii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Myemargi.html": {
+"rb_bg_name": "Трицветен нощник",
+"rb_taxon": "Myotis emarginatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Myroachi.html": {
+"rb_bg_name": "Мишевиден сънливец",
+"rb_taxon": "Myomimus roachi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Nemaxima.html": {
+"rb_bg_name": "Голяма еднодневка",
+"rb_taxon": "Neoephemera maxima"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Neophidi.html": {
+"rb_bg_name": "Морско шило",
+"rb_taxon": "Nerophis ophidion"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Nepercno.html": {
+"rb_bg_name": "Египетски лешояд",
+"rb_taxon": "Neophron percnopterus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Nerufina.html": {
+"rb_bg_name": "Качулата червеноглава потапница",
+"rb_taxon": "Netta rufina"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Nesyrman.html": {
+"rb_bg_name": "Сирман",
+"rb_taxon": "Neogobius syrman"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Nipoecil.html": {
+"rb_bg_name": "Никаринус",
+"rb_taxon": "Nicarinus poecilopterus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Nualbosi.html": {
+"rb_bg_name": "Нурсция",
+"rb_taxon": "Nurscia albosignata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Nutenuir.html": {
+"rb_bg_name": "Тънкоклюн свирец",
+"rb_taxon": "Numenius tenuirostris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Nylasiop.html": {
+"rb_bg_name": "Гигантски вечерник",
+"rb_taxon": "Nyctalus lasiopterus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Nyleisle.html": {
+"rb_bg_name": "Малък вечерник",
+"rb_taxon": "Nyctalus leisleri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Nynyctic.html": {
+"rb_bg_name": "Нощна чапла",
+"rb_taxon": "Nycticorax nycticorax"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Oeplesch.html": {
+"rb_bg_name": "Черногръбо каменарче",
+"rb_taxon": "Oenanthe pleschanka"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Opelegan.html": {
+"rb_bg_name": "Змиеок гущер",
+"rb_taxon": "Ophisops elegans"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Ottarda.html": {
+"rb_bg_name": "Голяма дропла",
+"rb_taxon": "Otis tarda"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Oxleucoc.html": {
+"rb_bg_name": "Тръноопашата потапница",
+"rb_taxon": "Oxyura leucocephala"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Paatroco.html": {
+"rb_bg_name": "Пахикарус",
+"rb_taxon": "Pachycarus atrocoeruleus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Pabiarmi.html": {
+"rb_bg_name": "Мустакат синигер",
+"rb_taxon": "Panurus biarmicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Pabulgar.html": {
+"rb_bg_name": "Български парастенокарис",
+"rb_taxon": "Parastenocaris bulgarica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Paburesi.html": {
+"rb_bg_name": "Бурешова паралола",
+"rb_taxon": "Paralola buresi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Pahaliae.html": {
+"rb_bg_name": "Орел рибар",
+"rb_taxon": "Pandion haliaetus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Palongic.html": {
+"rb_bg_name": "Дунавска русалка",
+"rb_taxon": "Palingenia longicauda"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Pastraub.html": {
+"rb_bg_name": "Крайморска каменарка",
+"rb_taxon": "Paranocarodes straubei"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Paturcom.html": {
+"rb_bg_name": "Туркменски скакалец",
+"rb_taxon": "Pallasiella turcomana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Peapivor.html": {
+"rb_bg_name": "Осояд",
+"rb_taxon": "Pernis apivorus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Peboryst.html": {
+"rb_bg_name": "Малък речен кефал",
+"rb_taxon": "Petroleuciscus borysthenicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Pecrispu.html": {
+"rb_bg_name": "Къдроглав пеликан",
+"rb_taxon": "Pelecanus crispus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Pecultra.html": {
+"rb_bg_name": "Сабица",
+"rb_taxon": "Pelecus cultratus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Peonocro.html": {
+"rb_bg_name": "Розов пеликан",
+"rb_taxon": "Pelecanus onocrotalus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Pharisto.html": {
+"rb_bg_name": "Среден корморан",
+"rb_taxon": "Phalacrocorax aristotelis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Phcolchi.html": {
+"rb_bg_name": "Колхидски фазан",
+"rb_taxon": "Phasianus colchicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Phphocoe.html": {
+"rb_bg_name": "Морска свиня",
+"rb_taxon": "Phocoena phocoena"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Phphoeni.html": {
+"rb_bg_name": "Градинска червеноопашка",
+"rb_taxon": "Phoenicurus phoenicurus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Phpygmeu.html": {
+"rb_bg_name": "Малък корморан",
+"rb_taxon": "Phalacrocorax pygmeus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Picanus.html": {
+"rb_bg_name": "Сив кълвач",
+"rb_taxon": "Picus canus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Pisupinu.html": {
+"rb_bg_name": "Пизидиум",
+"rb_taxon": "Pisidium supinum"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Pitridac.html": {
+"rb_bg_name": "Планински трипръст кълвач",
+"rb_taxon": "Picoides tridactylus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Plcollar.html": {
+"rb_bg_name": "Черноврата стрелушка",
+"rb_taxon": "Platyceps collaris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Plcrassu.html": {
+"rb_bg_name": "Халофилен скакалец",
+"rb_taxon": "Platypygius crassus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Plfalcin.html": {
+"rb_bg_name": "Блестящ ибис",
+"rb_taxon": "Plegadis falcinellus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Plleucor.html": {
+"rb_bg_name": "Лопатарка",
+"rb_taxon": "Platalea leucorodia"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Plmedved.html": {
+"rb_bg_name": "Медведев сив скакалец",
+"rb_taxon": "Platycleis medvedevi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Pocrista.html": {
+"rb_bg_name": "Голям гмурец",
+"rb_taxon": "Podiceps cristatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Pogriseg.html": {
+"rb_bg_name": "Среден гмурец",
+"rb_taxon": "Podiceps grisegena"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Ponigric.html": {
+"rb_bg_name": "Черноврат гмурец",
+"rb_taxon": "Podiceps nigricollis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Poparva.html": {
+"rb_bg_name": "Средна пъструшка",
+"rb_taxon": "Porzana parva"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Poporzan.html": {
+"rb_bg_name": "Голяма пъструшка",
+"rb_taxon": "Porzana porzana"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Popusill.html": {
+"rb_bg_name": "Малка пъструшка",
+"rb_taxon": "Porzana pusilla"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Prcollar.html": {
+"rb_bg_name": "Пъстрогуша завирушка",
+"rb_taxon": "Prunella collaris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Prlakatn.html": {
+"rb_bg_name": "Лакатнишка протелсония",
+"rb_taxon": "Protelsonia lakatnicensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Psapodus.html": {
+"rb_bg_name": "Жълтокоремник",
+"rb_taxon": "Pseudopus apodus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Pscodrea.html": {
+"rb_bg_name": "Кодреанува псеудамникола",
+"rb_taxon": "Pseudamnicola codreanui"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Psmaxima.html": {
+"rb_bg_name": "Черноморски калкан",
+"rb_taxon": "Psetta maxima"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Puplatyg.html": {
+"rb_bg_name": "Деветигла бодливка",
+"rb_taxon": "Pungitius platygaster"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Puyelkou.html": {
+"rb_bg_name": "Левантински буревестник",
+"rb_taxon": "Puffinus yelkouan"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Pygracul.html": {
+"rb_bg_name": "Жълтоклюна хайдушка гарга",
+"rb_taxon": "Pyrrhocorax graculus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Reavoset.html": {
+"rb_bg_name": "Саблеклюн",
+"rb_taxon": "Recurvirostra avosetta"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Rependul.html": {
+"rb_bg_name": "Торбогнезден синигер",
+"rb_taxon": "Remiz pendulinus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Rhblasii.html": {
+"rb_bg_name": "Средиземноморски подковонос",
+"rb_taxon": "Rhinolophus blasii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Rheuryal.html": {
+"rb_bg_name": "Южен подковонос",
+"rb_taxon": "Rhinolophus euryale"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Rhmehely.html": {
+"rb_bg_name": "Подковонос на Мехели",
+"rb_taxon": "Rhinolophus mehelyi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Roalbipi.html": {
+"rb_bg_name": "Белопера кротушка",
+"rb_taxon": "Romanogobio albipinnatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Rokessle.html": {
+"rb_bg_name": "Балканска кротушка",
+"rb_taxon": "Romanogobio kessleri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Rouranos.html": {
+"rb_bg_name": "Малка кротушка",
+"rb_taxon": "Romanogobio uranoscopus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Rufrisii.html": {
+"rb_bg_name": "Лупавец",
+"rb_taxon": "Rutilus frisii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Rurupica.html": {
+"rb_bg_name": "Дива коза",
+"rb_taxon": "Rupicapra rupicapra"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Sabalcan.html": {
+"rb_bg_name": "Балкански щипок",
+"rb_taxon": "Sabanejewia balcanica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Sabulgar.html": {
+"rb_bg_name": "Дунавски щипок",
+"rb_taxon": "Sabanejewia bulgarica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Sahellen.html": {
+"rb_bg_name": "Гръцка сага",
+"rb_taxon": "Saga hellenica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Salabrax.html": {
+"rb_bg_name": "Черноморска пъстърва",
+"rb_taxon": "Salmo labrax"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Savolgen.html": {
+"rb_bg_name": "Малка бяла риба",
+"rb_taxon": "Sander volgensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Scrustic.html": {
+"rb_bg_name": "Горски бекас",
+"rb_taxon": "Scolopax rusticola"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Scscombr.html": {
+"rb_bg_name": "Черноморска скумрия",
+"rb_taxon": "Scomber scombrus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Semaculo.html": {
+"rb_bg_name": "Петнистоопашата еднодневка",
+"rb_taxon": "Serratella maculocaudata"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Senigra.html": {
+"rb_bg_name": "Черно плоско водно конче",
+"rb_taxon": "Selysiothemis nigra"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Sibeschk.html": {
+"rb_bg_name": "Бешков сенокосец",
+"rb_taxon": "Siro beschkovi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Sineumay.html": {
+"rb_bg_name": "Скална зидарка",
+"rb_taxon": "Sitta neumayer"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Sinigrip.html": {
+"rb_bg_name": "Чернокрака голямокрилка",
+"rb_taxon": "Sialis nigripes"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Sisubtil.html": {
+"rb_bg_name": "Степна скачаща мишка",
+"rb_taxon": "Sicista subtilis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Sitermin.html": {
+"rb_bg_name": "Двуцветнопипална сизира",
+"rb_taxon": "Sisyra terminalis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Soarctic.html": {
+"rb_bg_name": "Северно блестящо водно конче",
+"rb_taxon": "Somatochlora arctica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Spcitell.html": {
+"rb_bg_name": "Европейски лалугер",
+"rb_taxon": "Spermophilus citellus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Stalbifr.html": {
+"rb_bg_name": "Белочела рибарка",
+"rb_taxon": "Sterna albifrons"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Sthenkei.html": {
+"rb_bg_name": "Стибаропус",
+"rb_taxon": "Stibaropus henkei"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Sthirund.html": {
+"rb_bg_name": "Речна рибарка",
+"rb_taxon": "Sterna hirundo"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Stniloti.html": {
+"rb_bg_name": "Дебелоклюна рибарка",
+"rb_taxon": "Sterna nilotica"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Stroseus.html": {
+"rb_bg_name": "Розов скорец",
+"rb_taxon": "Sturnus roseus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Stsandvi.html": {
+"rb_bg_name": "Гривеста рибарка",
+"rb_taxon": "Sterna sandvicensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Sturalen.html": {
+"rb_bg_name": "Уралска улулица",
+"rb_taxon": "Strix uralensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Syborin.html": {
+"rb_bg_name": "Градинско коприварче",
+"rb_taxon": "Sylvia borin"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Syhorten.html": {
+"rb_bg_name": "Орфеево коприварче",
+"rb_taxon": "Sylvia hortensis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Taferrug.html": {
+"rb_bg_name": "Червен ангъч",
+"rb_taxon": "Tadorna ferruginea"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Tarufico.html": {
+"rb_bg_name": "Малък гмурец",
+"rb_taxon": "Tachybaptus ruficollis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Tatadorn.html": {
+"rb_bg_name": "Бял ангъч",
+"rb_taxon": "Tadorna tadorna"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Tefallax.html": {
+"rb_bg_name": "Котешка змия",
+"rb_taxon": "Telescopus fallax"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Tegraeca.html": {
+"rb_bg_name": "Шипобедрена сухоземна костенурка",
+"rb_taxon": "Testudo graeca"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Teherman.html": {
+"rb_bg_name": "Шипоопашата сухоземна костенурка",
+"rb_taxon": "Testudo hermanni"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Tetetrax.html": {
+"rb_bg_name": "Стрепет",
+"rb_taxon": "Tetrax tetrax"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Tetetrix.html": {
+"rb_bg_name": "Тетрев",
+"rb_taxon": "Tetrao tetrix"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Teurogal.html": {
+"rb_bg_name": "Глухар",
+"rb_taxon": "Tetrao urogallus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Thpallas.html": {
+"rb_bg_name": "Паласов теодоксус",
+"rb_taxon": "Theodoxus pallasi"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Timurari.html": {
+"rb_bg_name": "Скалолазка",
+"rb_taxon": "Tichodroma muraria"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Tralpest.html": {
+"rb_bg_name": "Алпийски тритон",
+"rb_taxon": "Triturus alpestris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Trcrista.html": {
+"rb_bg_name": "Северен гребенест тритон",
+"rb_taxon": "Triturus cristatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Trdobrog.html": {
+"rb_bg_name": "Дунавски гребенест тритон",
+"rb_taxon": "Triturus dobrogicus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Trdrensk.html": {
+"rb_bg_name": "Дренскиев троглохифантес",
+"rb_taxon": "Troglohyphantes drenskii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Trmeridi.html": {
+"rb_bg_name": "Южен троглодикус",
+"rb_taxon": "Troglodicus meridionale"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Trochrop.html": {
+"rb_bg_name": "Горски водобегач",
+"rb_taxon": "Tringa ochropus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Trparado.html": {
+"rb_bg_name": "Трантеев сенокосец",
+"rb_taxon": "Tranteeva paradoxa"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Trtotanu.html": {
+"rb_bg_name": "Малък червеноног водобегач",
+"rb_taxon": "Tringa totanus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Trvulgar.html": {
+"rb_bg_name": "Влакноопашато тритонче",
+"rb_taxon": "Triturus vulgaris"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Tutrunca.html": {
+"rb_bg_name": "Афала",
+"rb_taxon": "Tursiops truncatus"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Tyalba.html": {
+"rb_bg_name": "Забулена сова",
+"rb_taxon": "Tyto alba"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Umkramer.html": {
+"rb_bg_name": "Умбра",
+"rb_taxon": "Umbra krameri"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Urarctos.html": {
+"rb_bg_name": "Кафява мечка",
+"rb_taxon": "Ursus arctos"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Viaspis.html": {
+"rb_bg_name": "Аспида",
+"rb_taxon": "Vipera aspis"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Vimelano.html": {
+"rb_bg_name": "Маришки морунаш",
+"rb_taxon": "Vimba melanops"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Viursini.html": {
+"rb_bg_name": "Степна усойница",
+"rb_taxon": "Vipera ursinii"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Voperegu.html": {
+"rb_bg_name": "Пъстър пор",
+"rb_taxon": "Vormela peregusna"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Zasitula.html": {
+"rb_bg_name": "Леопардов смок",
+"rb_taxon": "Zamenis situla"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Zistrebe.html": {
+"rb_bg_name": "Малка вретенарка",
+"rb_taxon": "Zingel streber"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Zizingel.html": {
+"rb_bg_name": "Голяма вретенарка",
+"rb_taxon": "Zingel zingel"
+},
+"http://e-ecodb.bas.bg/rdb/bg/vol2/Zoophioc.html": {
+"rb_bg_name": "Тревно попче",
+"rb_taxon": "Zosterisessor ophiocephalus"
+}
+}

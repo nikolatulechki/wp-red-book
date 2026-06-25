@@ -18,6 +18,12 @@ part of an AI agentic workflow: the tracking, reconciliation, and article
 drafting/publishing steps are driven by an AI coding agent running these scripts
 and the `git-remote-mediawiki` tooling.
 
+Wikidata: conservation status for Red Book taxa is modelled with
+[regional conservation status (P14254)](https://www.wikidata.org/wiki/Property:P14254);
+see [Wikidata:WikiProject Bulgaria/Red Book](https://www.wikidata.org/wiki/Wikidata:WikiProject_Bulgaria/Red_Book)
+for the statement model, SPARQL query, and [QuickStatements batch #259821](https://quickstatements.toolforge.org/#/batch/259821).
+Local docs: [`wikidata-modelling/`](wikidata-modelling/).
+
 ## Goal
 
 For every species in the Red Book, track its status across the article-creation
@@ -32,6 +38,7 @@ red-book/
 ├── tracking.csv             ← master tracking sheet (one row per species)
 ├── outbox/                  ← Phase B article drafts (.mw), tracked in git
 ├── drafts/                  ← Phase A briefs (gitignored working copies)
+├── wikidata-modelling/      ← P14254 modelling docs + QuickStatements batch
 ├── scripts/                 ← the data pipeline (see below)
 │   ├── common.py            ← shared CSV helpers + column schema + taxon fixes
 │   ├── build_tracker.py     ← build tracking.csv from the species-list .mw

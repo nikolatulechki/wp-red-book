@@ -7,3 +7,6 @@ drafts/*
 __pycache__/
 *.pyc
 wiki/
+LOCAL_NOTES.md
+.DS_Store
+throttle.ctrl

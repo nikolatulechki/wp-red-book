@@ -26,7 +26,7 @@ One file: `outbox/<Bg_Title_With_Underscores>.mw`
 
 - Bulgarian prose comes from the Red Book entry only; one `{{Червена книга}}` ref reused via `<ref name="ЧК"/>`.
 - `status_bg` from `redbook_status`; family link from Wikidata P171 / brief hints.
-- Categories: deepest taxonomic level only; geographic = `Флора/Фауна на България` **only** if endemic to Bulgaria (TEMPLATE.md §6a).
+- Categories: **do not add any categories** (no taxonomic, no geographic). Leave them out entirely — categories are added in a separate batch pass later. Do not run API/Shell checks for categories or taxonomy.
 - No `{{мъниче}}` stub. No publish, no git push, no Wikidata sitelinks — Phase C handles that.
 - If `brief.md` is missing, refuse and tell the user to run `scripts/prepare_brief.py` first.
 

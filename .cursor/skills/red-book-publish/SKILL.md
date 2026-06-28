@@ -51,9 +51,11 @@ project venv: `. .venv/bin/activate` (or prefix with `.venv/bin/python`).
   `wikidata-pybot` with `PYWIKIBOT_DIR=~/Projects/wiki/wikidata-pybot`. The bg
   `{{Taxobox}}` stays empty until this link exists. Handled by
   `scripts/link_wikidata_sitelinks.py`.
-- Current category convention (TEMPLATE.md §6a): taxonomic = **deepest level
-  only** (never also the parent); geographic = `Флора/Фауна на България` **only
-  if endemic to Bulgaria**, otherwise add nothing. No `{{мъниче}}` stub.
+- **Categories are NOT a writing step.** Phase B writers add **no categories at
+  all** (neither taxonomic nor geographic) — picking/verifying categories was the
+  slowest part of Phase B. Categories are added in a separate **batch** pass
+  later. No `{{мъниче}}` stub either. (TEMPLATE.md §6a documents the convention
+  the batch pass will apply.)
 
 ## Model routing (three phases)
 
@@ -109,9 +111,9 @@ to `/tmp/rb/<id>.txt` only.
 Follow `TEMPLATE.md` exactly. One `.mw` file per species at
 `outbox/<Bg_Title_With_Underscores>.mw` (tracked in git). Map Red Book sections → wiki
 sections per TEMPLATE.md §2; derive the Bulgarian family name from the `P171`
-chain; set `status_bg` from `redbook_status`; pick the deepest taxonomic
-category that exists on bgwiki; add a geographic category **only** for Bulgarian
-endemics.
+chain; set `status_bg` from `redbook_status`. **Add no categories** (taxonomic or
+geographic) — categories are applied in a separate batch pass later, never
+per-article during Phase B.
 
 ### Step 4 — pre-flight links
 `check_links.py <files...>` reports every `[[link]]` and `[[Категория:…]]` that

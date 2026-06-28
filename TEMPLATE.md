@@ -153,6 +153,10 @@ just the one taxonomic line.
 
 ### Taxonomic category — deepest level only
 
+> **Phase B: add no categories at all.** Writers leave out every category (both
+> taxonomic and geographic). Categories are applied in a separate **batch** pass
+> later. The rules below are for that batch pass, not for article writing.
+
 Place the article in the **single most specific** taxonomic category that
 exists, and **never** also add a broader ancestor. The parent is already
 reachable through the category tree, so listing both is redundant.
